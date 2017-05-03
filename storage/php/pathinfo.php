@@ -1,0 +1,37 @@
+<?php
+$navbar_bottom = storage_path('php/navbar_bottom.php');
+$test_project_navbar_bottom = storage_path('php/test_project_navbar_bottom.php');
+$project_navbar_bottom = storage_path('php/project_navbar_bottom.php');
+$project_navbar_top = storage_path('php/project_navbar_top.php');
+$test_project_navbar_top = storage_path('php/test_project_navbar_top.php');
+$project_navbar = storage_path('php/project_navbar.php');
+$user_navbar_top = storage_path('php/user_navbar_top.php');
+$user_title_header = storage_path('php/user_title-header.php');
+$user_photoalbums_modals = storage_path('php/user_photoalbums_modals.php');
+$latestvideos = storage_path('php/section_latestvideos.php');
+$middlespacer = dirname(__FILE__) . '/section_middlespacer.php';
+$head = dirname(__FILE__) . '/section_head.php';
+$head_linkedresources = dirname(__FILE__) . '/head_linkedresources.php';
+$head_linkedresources_project01 = dirname(__FILE__) . '/head_linkedresources_project01.php';
+$logobanner = dirname(__FILE__) . '/section_logobanner.php';
+$topspacer = dirname(__FILE__) . '/section_topspacer.php';
+$footer = dirname(__FILE__) . '/section_footer.php';
+$header = dirname(__FILE__) . '/section_header.php';
+$titlebar = dirname(__FILE__) . '/section_titlebar.php';
+$scripts = dirname(__FILE__) . '/scripts.php';
+$facebook = storage_path('php/section_facebook.php');
+$twitter = storage_path('php/section_twitter.php');
+$flickr = dirname(__FILE__) . '/section_flickr.php';
+$instagram = storage_path('php/section_instagram.php');
+$showsshort = dirname(__FILE__) . '/section_showsshort.php';
+$contactform = dirname(__FILE__) . '/section_contactform.php';
+$section_about = dirname(__FILE__) . '/section_about.php';
+$startcontentcontainer = dirname(__FILE__) . '/section_startcontentcontainer.php';
+$startprojectcontentcontainer = dirname(__FILE__) . '/section_startprojectcontentcontainer.php';
+$endcontentcontainer = dirname(__FILE__) . '/section_endcontentcontainer.php';
+$highresloop = dirname(__FILE__) . '/section_highresloop.php';
+$artwork = dirname(__FILE__) . '/section_artwork.php';
+$flash = dirname(__FILE__) . '/flash.php';
+$images = url() . '/images/';
+$css = url() . '/css/';
+?>

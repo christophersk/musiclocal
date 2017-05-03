@@ -1,0 +1,9 @@
+<div class="well well-sm">
+<h2 style="padding-left:0;">About</h2>
+
+<p>Since making the jump in late 2013 from blues guitarist-sideman to frontman and bandleader, Chris Skene has quickly made a mark as one of Tallahassee's standout up-and-coming musicians. Described by one event promoter as "Jeff Buckley meets Derek And The Dominoes," Chris is a singer-guitarist who is as comfortable with his fingers on a fretboard as he is with his mouth to a microphone. After spending 2014 developing his voice and solo repertoire, Chris is beginning to once again venture outside of Tallahassee&mdash;this time under his own name&mdash;and is making plans to record an EP later this year.</p>
+
+<p>With an extensive repertoire that begins with early folk blues, winds through the soul and rock 'n' roll era of the 1960s and 70s, and reaches into late 20th century alternative rock, Chris delivers refreshing renditions of songs across a range of genres, as well as occasionally dipping his toes into original material. While no stranger to large, loud stages, Chris also enjoys quiet, contemplative playing, and he enthusiastically seeks out different types of venues to showcase and explore different aspects of his music.</p>
+
+<p>Chris has shared the stage with a number of notable Tallahassee acts, including King Cotton, Pepper Drive, Black Cat Bones, the Tony Young Trio, the Jamie Eubanks Band, the Hub Chason Band, and the Common 'Taters Trio, with whom he has performed several times as a guest lead guitarist. He teeth as the guitarist for the Swingin' Harpoon Blues Band, playing venues from South Carolina to Key West.</p>
+</div>

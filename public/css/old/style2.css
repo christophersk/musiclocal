@@ -1,0 +1,329 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face
+{
+font-family: Freestyle;
+src: url('FREESCPT.ttf'),
+url('FREESCPT.otf');
+}
+
+@font-face {
+    font-family: vladimir_script;
+    src: url('http://www.musiclocal.org/fonts/vladimir_script.ttf');
+}
+
+
+@font-face
+{
+font-family:vladimir;
+src: url('/mediafiles/views/chrisskenemusic/fonts/vladimir_script.woff');
+}
+
+.section {
+	border-radius:10px;
+	margin:0;
+	}
+
+h1.projectnameheader {
+	color:rgba(0,0,0,.8)
+}
+
+.actionbutton {
+	padding-top:10px;
+	padding-bottom:10px;
+	display:inline-block;
+}
+
+.btn-link-color {
+	color:#337ab7;
+}
+
+.btn-link-color:hover {
+	background-color:#c1c8c8;
+	border-radius:2px;
+}
+
+.btn-link:hover {
+	background-color:#c1c8c8;
+	border-radius:2px;
+}
+
+.affix {
+	margin-right:15px;
+}
+
+.affix-top {
+	margin-right:-5px;
+}
+
+@media (min-width:730px){
+	.projectnavbar {
+	height:45px;
+	}
+	.affix {
+	top:50px;
+	}
+}
+
+@media (max-width:729px){
+	.projectnavbar {
+	height:75px;
+	}
+	.affix {
+	top:50px;
+	}
+}
+
+@media (max-width:414px){
+	.projectnavbar {
+	height:110px;
+	}
+	.affix {
+	top:50px;
+	}
+}
+
+@media (max-width:313px){
+	.projectnavbar {
+	height:145px;
+	}
+	.affix {
+	top:50px;
+	}
+}
+
+/*fixes container position after affix event fires*/
+.container-affix-fix {
+	position:relative;
+	top:45px;
+}
+
+body {
+	padding-top:50px;
+	padding-bottom:50px;
+	background:transparent;
+	}
+
+p {
+	/*color:#9d9d9d;*/
+	color:#333333;
+
+}
+
+h1 {
+	/*color:#ffffff;*/
+	color:#333333;
+	font-family: 'EB Garamond', serif;
+}
+h2 {
+	/*color:#ffffff;*/
+	color:#333333;
+	font-family: 'EB Garamond', serif;
+	padding-top:0px;
+}
+h3 {
+	/*color:#ffffff;*/
+	color:#333333;
+	font-family: 'EB Garamond', serif;
+}
+h4 {
+	/*color:#ffffff;*/
+	color:#333333;
+}
+
+a:hover {
+	cursor:pointer;
+}
+
+.imglink:hover {
+	cursor:pointer;
+}
+
+#modalbackground:hover {
+	cursor:pointer;
+}
+
+.nopadding {
+	padding:0px;
+}
+
+.well {
+	background-color:rgba(0,0,0,0.2);
+	border-color:#000000;
+}
+.fade-enter {
+  opacity: 0.01;
+}
+
+.fade-enter.fade-enter-active {
+  opacity: 1;
+  transition: opacity .08s ease-in;
+}
+.middlespacer {
+	padding-top:2px;
+	}
+
+.menuheader {
+	text-align: center;
+	color: black;
+}
+
+.bottompaddiv {
+	padding-bottom: 60px;
+}
+
+.bottomround {
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	}
+	
+.contentcolor {
+	/*background-color:rgba(0,0,0,0.8);*/
+	}
+
+.footercolor {
+	background-color:rgba(0,0,0,0.8);
+	}
+
+.jumbocontainer {
+	width: 100%;
+	padding:0;
+	margin:0;
+}
+
+a.focus {
+	background-color:#000000;
+}
+
+.outershadow {
+	/*box-shadow:0px 0px 5px 0px;*/
+}
+
+.imgclickable, .imgclickable a {
+	border: none; overflow: hidden; float: left;
+}
+
+.imgclickable:hover {
+	border: 1px solid #ffffff;
+}
+
+.imgclickable:hover img {
+	cursor:pointer;
+	margin: -1px;
+}
+
+.img-responsive {
+	display:block;
+	max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+label {
+    color:#333333;
+}
+
+.modalclass1 {
+	position:fixed;
+	top:100px;
+	z-index:9999;
+	width:80%;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.container-fixed {
+    margin: 0 auto;
+    max-width: 970px;
+}
+
+.container-background {
+	background-color: rgba(0, 0, 0, 0.80);
+}
+
+.hidden {
+    display:none;
+}
+
+.startprojectcontentcontainer {
+	padding-top:30px;
+	padding-bottom:50px;
+}
+
+.flash {
+    display: none;
+    position:absolute;
+    bottom:50px;
+    right:15px;
+    z-index:999999;
+}
+
+::-webkit-scrollbar {
+width: 12px;
+}
+
+::-webkit-scrollbar-track {
+background-color: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+background-color: #333333;
+height: 10px;}
+
+::-webkit-scrollbar-button{
+background-color: #c1c1c1;
+height:12px;
+}
+
+.textstroke {
+-webkit-text-stroke: 2px #000000;
+font-weight: 700;
+}
+
+/*
+css for masonry columns. masonry only provides one set of columns per page, so to have multiple sets of columns in multiple block sections,
+set default column width to least common multiple of both and use masonry's multiple-width column setting to achieve desired column count result for each section.
+*/
+.grid-sizer,
+.grid-item { width: 8.333%; }
+.grid-item--width2 { width: 50%; }
+.grid-item--width3 { width: 33.33%; }
+.grid-item--width3-gutter { width: 32.33%; }
+.grid-item--width4 { width: 25%; }
+.grid-item--widthentire { width: 100%; }
+
+.gutter-sizer {width:5;}
+
+.grid-item {
+    float: left;
+}
+
+.grid-item img {
+    display: block;
+    max-width: 100%;
+}
+.grid:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.is-loading {
+    background-color: lightgray;
+    background-image: url('//d1y0bevpkkhybk.cloudfront.net/MLpreloader.gif');
+}
+
+/*the following stylings are used to activate salvattore.js
+#getcurrentphotos[data-columns]::before {
+    content: '3 .column.size-1of3';
+}
+
+#getfacebookphotos[data-columns]::before {
+    content: '4 .column.size-1of4';
+}
+
+.column { float: left; }
+.size-1of3 { width: 33.33%; }
+
+.size-1of4 { width: 25%; }*/

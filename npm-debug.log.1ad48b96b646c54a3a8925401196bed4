@@ -1,0 +1,31 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'cache', 'clean' ]
+2 info using npm@2.14.4
+3 info using node@v4.1.1
+4 silly ls normalized .
+5 silly gentlyRm /home/vagrant/.npm/readable-stream is being purged
+6 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/readable-stream
+7 silly gentlyRm /home/vagrant/.npm/registry.npmjs.org is being purged
+8 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/registry.npmjs.org
+9 silly vacuum-fs purging /home/vagrant/.npm/readable-stream
+10 silly vacuum-fs purging /home/vagrant/.npm/registry.npmjs.org
+11 verbose stack Error: EACCES: permission denied, rmdir '/home/vagrant/.npm/readable-stream/1.0.33'
+11 verbose stack     at Error (native)
+12 verbose cwd /home/vagrant/Code/Laravel
+13 error Linux 3.19.0-25-generic
+14 error argv "/usr/bin/nodejs" "/usr/bin/npm" "cache" "clean"
+15 error node v4.1.1
+16 error npm  v2.14.4
+17 error path /home/vagrant/.npm/readable-stream/1.0.33
+18 error code EACCES
+19 error errno -13
+20 error syscall rmdir
+21 error Error: EACCES: permission denied, rmdir '/home/vagrant/.npm/readable-stream/1.0.33'
+21 error     at Error (native)
+21 error  { [Error: EACCES: permission denied, rmdir '/home/vagrant/.npm/readable-stream/1.0.33']
+21 error   errno: -13,
+21 error   code: 'EACCES',
+21 error   syscall: 'rmdir',
+21 error   path: '/home/vagrant/.npm/readable-stream/1.0.33' }
+22 error Please try running this command again as root/Administrator.
+23 verbose exit [ -13, true ]

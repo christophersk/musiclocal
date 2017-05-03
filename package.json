@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-notify": "*",
+    "gulp-util": "*",
+    "gulp-version-tag": "0.0.10",
+    "laravel-elixir": "0.14.2"
+  },
+  "dependencies": {}
+}

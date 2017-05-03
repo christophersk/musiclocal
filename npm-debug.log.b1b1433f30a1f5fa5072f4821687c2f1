@@ -1,0 +1,2270 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'cache', 'clean' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose node symlink /usr/bin/node
+5 silly ls normalized .
+6 silly gentlyRm /home/vagrant/.npm/JSONStream is being purged
+7 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/JSONStream
+8 silly gentlyRm /home/vagrant/.npm/_locks is being purged
+9 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/_locks
+10 silly gentlyRm /home/vagrant/.npm/accepts is being purged
+11 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/accepts
+12 silly gentlyRm /home/vagrant/.npm/accord is being purged
+13 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/accord
+14 silly gentlyRm /home/vagrant/.npm/acorn is being purged
+15 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/acorn
+16 silly gentlyRm /home/vagrant/.npm/amdefine is being purged
+17 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/amdefine
+18 silly gentlyRm /home/vagrant/.npm/ansi-green is being purged
+19 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ansi-green
+20 silly gentlyRm /home/vagrant/.npm/ansi-regex is being purged
+21 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ansi-regex
+22 silly gentlyRm /home/vagrant/.npm/ansi-styles is being purged
+23 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ansi-styles
+24 silly gentlyRm /home/vagrant/.npm/ansi-wrap is being purged
+25 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ansi-wrap
+26 silly gentlyRm /home/vagrant/.npm/anymatch is being purged
+27 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/anymatch
+28 silly gentlyRm /home/vagrant/.npm/archy is being purged
+29 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/archy
+30 silly gentlyRm /home/vagrant/.npm/arr-diff is being purged
+31 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/arr-diff
+32 silly gentlyRm /home/vagrant/.npm/arr-flatten is being purged
+33 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/arr-flatten
+34 silly gentlyRm /home/vagrant/.npm/array-differ is being purged
+35 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/array-differ
+36 silly gentlyRm /home/vagrant/.npm/array-filter is being purged
+37 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/array-filter
+38 silly gentlyRm /home/vagrant/.npm/array-map is being purged
+39 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/array-map
+40 silly gentlyRm /home/vagrant/.npm/array-reduce is being purged
+41 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/array-reduce
+42 silly gentlyRm /home/vagrant/.npm/array-slice is being purged
+43 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/array-slice
+44 silly gentlyRm /home/vagrant/.npm/array-union is being purged
+45 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/array-union
+46 silly gentlyRm /home/vagrant/.npm/array-uniq is being purged
+47 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/array-uniq
+48 silly gentlyRm /home/vagrant/.npm/array-unique is being purged
+49 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/array-unique
+50 silly gentlyRm /home/vagrant/.npm/arrify is being purged
+51 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/arrify
+52 silly gentlyRm /home/vagrant/.npm/asn1 is being purged
+53 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/asn1
+54 silly gentlyRm /home/vagrant/.npm/assert is being purged
+55 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/assert
+56 silly gentlyRm /home/vagrant/.npm/assert-plus is being purged
+57 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/assert-plus
+58 silly gentlyRm /home/vagrant/.npm/assertion-error is being purged
+59 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/assertion-error
+60 silly gentlyRm /home/vagrant/.npm/async is being purged
+61 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/async
+62 silly gentlyRm /home/vagrant/.npm/async-done is being purged
+63 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/async-done
+64 silly gentlyRm /home/vagrant/.npm/async-each is being purged
+65 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/async-each
+66 silly gentlyRm /home/vagrant/.npm/async-each-series is being purged
+67 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/async-each-series
+68 silly gentlyRm /home/vagrant/.npm/autoprefixer-core is being purged
+69 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/autoprefixer-core
+70 silly gentlyRm /home/vagrant/.npm/aws-sign2 is being purged
+71 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/aws-sign2
+72 silly gentlyRm /home/vagrant/.npm/babel is being purged
+73 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/babel
+74 silly gentlyRm /home/vagrant/.npm/babel-core is being purged
+75 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/babel-core
+76 silly gentlyRm /home/vagrant/.npm/babelify is being purged
+77 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/babelify
+78 silly gentlyRm /home/vagrant/.npm/balanced-match is being purged
+79 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/balanced-match
+80 silly gentlyRm /home/vagrant/.npm/base64-js is being purged
+81 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/base64-js
+82 silly gentlyRm /home/vagrant/.npm/batch is being purged
+83 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/batch
+84 silly gentlyRm /home/vagrant/.npm/beeper is being purged
+85 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/beeper
+86 silly gentlyRm /home/vagrant/.npm/binary-extensions is being purged
+87 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/binary-extensions
+88 silly gentlyRm /home/vagrant/.npm/bl is being purged
+89 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/bl
+90 silly gentlyRm /home/vagrant/.npm/bn.js is being purged
+91 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/bn.js
+92 silly gentlyRm /home/vagrant/.npm/brace-expansion is being purged
+93 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/brace-expansion
+94 silly gentlyRm /home/vagrant/.npm/braces is being purged
+95 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/braces
+96 silly gentlyRm /home/vagrant/.npm/brorand is being purged
+97 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/brorand
+98 silly gentlyRm /home/vagrant/.npm/browser-pack is being purged
+99 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browser-pack
+100 silly gentlyRm /home/vagrant/.npm/browser-resolve is being purged
+101 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browser-resolve
+102 silly gentlyRm /home/vagrant/.npm/browser-sync is being purged
+103 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browser-sync
+104 silly gentlyRm /home/vagrant/.npm/browser-sync-client is being purged
+105 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browser-sync-client
+106 silly gentlyRm /home/vagrant/.npm/browser-sync-ui is being purged
+107 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browser-sync-ui
+108 silly gentlyRm /home/vagrant/.npm/browserify is being purged
+109 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browserify
+110 silly gentlyRm /home/vagrant/.npm/browserify-aes is being purged
+111 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browserify-aes
+112 silly gentlyRm /home/vagrant/.npm/browserify-cipher is being purged
+113 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browserify-cipher
+114 silly gentlyRm /home/vagrant/.npm/browserify-des is being purged
+115 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browserify-des
+116 silly gentlyRm /home/vagrant/.npm/browserify-rsa is being purged
+117 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browserify-rsa
+118 silly gentlyRm /home/vagrant/.npm/browserify-sign is being purged
+119 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browserify-sign
+120 silly gentlyRm /home/vagrant/.npm/browserify-zlib is being purged
+121 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browserify-zlib
+122 silly gentlyRm /home/vagrant/.npm/browserslist is being purged
+123 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/browserslist
+124 silly gentlyRm /home/vagrant/.npm/buffer is being purged
+125 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/buffer
+126 silly gentlyRm /home/vagrant/.npm/bufferstreams is being purged
+127 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/bufferstreams
+128 silly gentlyRm /home/vagrant/.npm/builtin-modules is being purged
+129 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/builtin-modules
+130 silly gentlyRm /home/vagrant/.npm/builtin-status-codes is being purged
+131 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/builtin-status-codes
+132 silly gentlyRm /home/vagrant/.npm/builtins is being purged
+133 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/builtins
+134 silly gentlyRm /home/vagrant/.npm/camel-case is being purged
+135 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/camel-case
+136 silly gentlyRm /home/vagrant/.npm/camelcase is being purged
+137 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/camelcase
+138 silly gentlyRm /home/vagrant/.npm/camelcase-keys is being purged
+139 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/camelcase-keys
+140 silly gentlyRm /home/vagrant/.npm/caniuse-db is being purged
+141 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/caniuse-db
+142 silly gentlyRm /home/vagrant/.npm/caseless is being purged
+143 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/caseless
+144 silly gentlyRm /home/vagrant/.npm/chai is being purged
+145 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/chai
+146 silly gentlyRm /home/vagrant/.npm/chalk is being purged
+147 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/chalk
+148 silly gentlyRm /home/vagrant/.npm/change-case is being purged
+149 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/change-case
+150 silly gentlyRm /home/vagrant/.npm/chokidar is being purged
+151 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/chokidar
+152 silly gentlyRm /home/vagrant/.npm/cipher-base is being purged
+153 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/cipher-base
+154 silly gentlyRm /home/vagrant/.npm/clean-css is being purged
+155 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/clean-css
+156 silly gentlyRm /home/vagrant/.npm/cli is being purged
+157 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/cli
+158 silly gentlyRm /home/vagrant/.npm/cli-usage is being purged
+159 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/cli-usage
+160 silly gentlyRm /home/vagrant/.npm/cliui is being purged
+161 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/cliui
+162 silly gentlyRm /home/vagrant/.npm/clone is being purged
+163 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/clone
+164 silly gentlyRm /home/vagrant/.npm/clone-stats is being purged
+165 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/clone-stats
+166 silly gentlyRm /home/vagrant/.npm/code-point-at is being purged
+167 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/code-point-at
+168 silly gentlyRm /home/vagrant/.npm/coffee-script is being purged
+169 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/coffee-script
+170 silly gentlyRm /home/vagrant/.npm/combine-source-map is being purged
+171 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/combine-source-map
+172 silly gentlyRm /home/vagrant/.npm/combined-stream is being purged
+173 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/combined-stream
+174 silly gentlyRm /home/vagrant/.npm/commander is being purged
+175 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/commander
+176 silly gentlyRm /home/vagrant/.npm/commondir is being purged
+177 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/commondir
+178 silly gentlyRm /home/vagrant/.npm/concat-map is being purged
+179 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/concat-map
+180 silly gentlyRm /home/vagrant/.npm/concat-stream is being purged
+181 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/concat-stream
+182 silly gentlyRm /home/vagrant/.npm/concat-with-sourcemaps is being purged
+183 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/concat-with-sourcemaps
+184 silly gentlyRm /home/vagrant/.npm/connect is being purged
+185 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/connect
+186 silly gentlyRm /home/vagrant/.npm/console-browserify is being purged
+187 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/console-browserify
+188 silly gentlyRm /home/vagrant/.npm/constant-case is being purged
+189 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/constant-case
+190 silly gentlyRm /home/vagrant/.npm/constants-browserify is being purged
+191 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/constants-browserify
+192 silly gentlyRm /home/vagrant/.npm/convert-source-map is being purged
+193 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/convert-source-map
+194 silly gentlyRm /home/vagrant/.npm/cookie is being purged
+195 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/cookie
+196 silly gentlyRm /home/vagrant/.npm/core-util-is is being purged
+197 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/core-util-is
+198 silly gentlyRm /home/vagrant/.npm/create-ecdh is being purged
+199 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/create-ecdh
+200 silly gentlyRm /home/vagrant/.npm/create-hash is being purged
+201 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/create-hash
+202 silly gentlyRm /home/vagrant/.npm/create-hmac is being purged
+203 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/create-hmac
+204 silly gentlyRm /home/vagrant/.npm/crypto-browserify is being purged
+205 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/crypto-browserify
+206 silly gentlyRm /home/vagrant/.npm/ctype is being purged
+207 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ctype
+208 silly gentlyRm /home/vagrant/.npm/date-now is being purged
+209 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/date-now
+210 silly gentlyRm /home/vagrant/.npm/dateformat is being purged
+211 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/dateformat
+212 silly gentlyRm /home/vagrant/.npm/deap is being purged
+213 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/deap
+214 silly gentlyRm /home/vagrant/.npm/debug is being purged
+215 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/debug
+216 silly gentlyRm /home/vagrant/.npm/decamelize is being purged
+217 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/decamelize
+218 silly gentlyRm /home/vagrant/.npm/deep-eql is being purged
+219 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/deep-eql
+220 silly gentlyRm /home/vagrant/.npm/deep-equal is being purged
+221 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/deep-equal
+222 silly gentlyRm /home/vagrant/.npm/defaults is being purged
+223 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/defaults
+224 silly gentlyRm /home/vagrant/.npm/defined is being purged
+225 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/defined
+226 silly gentlyRm /home/vagrant/.npm/del is being purged
+227 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/del
+228 silly gentlyRm /home/vagrant/.npm/delayed-stream is being purged
+229 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/delayed-stream
+230 silly gentlyRm /home/vagrant/.npm/depd is being purged
+231 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/depd
+232 silly gentlyRm /home/vagrant/.npm/deprecated is being purged
+233 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/deprecated
+234 silly gentlyRm /home/vagrant/.npm/deps-sort is being purged
+235 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/deps-sort
+236 silly gentlyRm /home/vagrant/.npm/des.js is being purged
+237 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/des.js
+238 silly gentlyRm /home/vagrant/.npm/destroy is being purged
+239 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/destroy
+240 silly gentlyRm /home/vagrant/.npm/dev-ip is being purged
+241 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/dev-ip
+242 silly gentlyRm /home/vagrant/.npm/diffie-hellman is being purged
+243 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/diffie-hellman
+244 silly gentlyRm /home/vagrant/.npm/domain-browser is being purged
+245 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/domain-browser
+246 silly gentlyRm /home/vagrant/.npm/dot-case is being purged
+247 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/dot-case
+248 silly gentlyRm /home/vagrant/.npm/duplexer is being purged
+249 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/duplexer
+250 silly gentlyRm /home/vagrant/.npm/duplexer2 is being purged
+251 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/duplexer2
+252 silly gentlyRm /home/vagrant/.npm/each-async is being purged
+253 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/each-async
+254 silly gentlyRm /home/vagrant/.npm/easy-extender is being purged
+255 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/easy-extender
+256 silly gentlyRm /home/vagrant/.npm/eazy-logger is being purged
+257 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/eazy-logger
+258 silly gentlyRm /home/vagrant/.npm/ee-first is being purged
+259 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ee-first
+260 silly gentlyRm /home/vagrant/.npm/elliptic is being purged
+261 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/elliptic
+262 silly gentlyRm /home/vagrant/.npm/emitter-steward is being purged
+263 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/emitter-steward
+264 silly gentlyRm /home/vagrant/.npm/end-of-stream is being purged
+265 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/end-of-stream
+266 silly gentlyRm /home/vagrant/.npm/ends-with is being purged
+267 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ends-with
+268 silly gentlyRm /home/vagrant/.npm/engine.io is being purged
+269 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/engine.io
+270 silly gentlyRm /home/vagrant/.npm/error-ex is being purged
+271 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/error-ex
+272 silly gentlyRm /home/vagrant/.npm/es6-promise is being purged
+273 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/es6-promise
+274 silly gentlyRm /home/vagrant/.npm/escape-html is being purged
+275 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/escape-html
+276 silly gentlyRm /home/vagrant/.npm/escape-string-regexp is being purged
+277 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/escape-string-regexp
+278 silly gentlyRm /home/vagrant/.npm/etag is being purged
+279 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/etag
+280 silly gentlyRm /home/vagrant/.npm/event-stream is being purged
+281 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/event-stream
+282 silly gentlyRm /home/vagrant/.npm/eventemitter3 is being purged
+283 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/eventemitter3
+284 silly gentlyRm /home/vagrant/.npm/events is being purged
+285 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/events
+286 silly gentlyRm /home/vagrant/.npm/evp_bytestokey is being purged
+287 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/evp_bytestokey
+288 silly gentlyRm /home/vagrant/.npm/exit is being purged
+289 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/exit
+290 silly gentlyRm /home/vagrant/.npm/expand-brackets is being purged
+291 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/expand-brackets
+292 silly gentlyRm /home/vagrant/.npm/expand-range is being purged
+293 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/expand-range
+294 silly gentlyRm /home/vagrant/.npm/expect is being purged
+295 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/expect
+296 silly gentlyRm /home/vagrant/.npm/extend is being purged
+297 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/extend
+298 silly gentlyRm /home/vagrant/.npm/extglob is being purged
+299 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/extglob
+300 silly gentlyRm /home/vagrant/.npm/fancy-log is being purged
+301 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/fancy-log
+302 silly gentlyRm /home/vagrant/.npm/filename-regex is being purged
+303 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/filename-regex
+304 silly gentlyRm /home/vagrant/.npm/fill-range is being purged
+305 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/fill-range
+306 silly gentlyRm /home/vagrant/.npm/finalhandler is being purged
+307 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/finalhandler
+308 silly gentlyRm /home/vagrant/.npm/find-index is being purged
+309 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/find-index
+310 silly gentlyRm /home/vagrant/.npm/find-up is being purged
+311 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/find-up
+312 silly gentlyRm /home/vagrant/.npm/findup-sync is being purged
+313 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/findup-sync
+314 silly gentlyRm /home/vagrant/.npm/first-chunk-stream is being purged
+315 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/first-chunk-stream
+316 silly gentlyRm /home/vagrant/.npm/flagged-respawn is being purged
+317 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/flagged-respawn
+318 silly gentlyRm /home/vagrant/.npm/flatten is being purged
+319 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/flatten
+320 silly gentlyRm /home/vagrant/.npm/fobject is being purged
+321 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/fobject
+322 silly gentlyRm /home/vagrant/.npm/for-in is being purged
+323 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/for-in
+324 silly gentlyRm /home/vagrant/.npm/for-own is being purged
+325 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/for-own
+326 silly gentlyRm /home/vagrant/.npm/foreach is being purged
+327 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/foreach
+328 silly gentlyRm /home/vagrant/.npm/forever-agent is being purged
+329 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/forever-agent
+330 silly gentlyRm /home/vagrant/.npm/fork-stream is being purged
+331 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/fork-stream
+332 silly gentlyRm /home/vagrant/.npm/form-data is being purged
+333 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/form-data
+334 silly gentlyRm /home/vagrant/.npm/foxy is being purged
+335 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/foxy
+336 silly gentlyRm /home/vagrant/.npm/fresh is being purged
+337 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/fresh
+338 silly gentlyRm /home/vagrant/.npm/from is being purged
+339 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/from
+340 silly gentlyRm /home/vagrant/.npm/fs-readdir-recursive is being purged
+341 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/fs-readdir-recursive
+342 silly gentlyRm /home/vagrant/.npm/fsevents is being purged
+343 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/fsevents
+344 silly gentlyRm /home/vagrant/.npm/function-bind is being purged
+345 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/function-bind
+346 silly gentlyRm /home/vagrant/.npm/gaze is being purged
+347 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gaze
+348 silly gentlyRm /home/vagrant/.npm/get-line-from-pos is being purged
+349 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/get-line-from-pos
+350 silly gentlyRm /home/vagrant/.npm/get-stdin is being purged
+351 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/get-stdin
+352 silly gentlyRm /home/vagrant/.npm/glob is being purged
+353 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/glob
+354 silly gentlyRm /home/vagrant/.npm/glob-base is being purged
+355 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/glob-base
+356 silly gentlyRm /home/vagrant/.npm/glob-parent is being purged
+357 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/glob-parent
+358 silly gentlyRm /home/vagrant/.npm/glob-stream is being purged
+359 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/glob-stream
+360 silly gentlyRm /home/vagrant/.npm/glob-watcher is being purged
+361 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/glob-watcher
+362 silly gentlyRm /home/vagrant/.npm/glob2base is being purged
+363 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/glob2base
+364 silly gentlyRm /home/vagrant/.npm/globby is being purged
+365 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/globby
+366 silly gentlyRm /home/vagrant/.npm/globule is being purged
+367 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/globule
+368 silly gentlyRm /home/vagrant/.npm/glogg is being purged
+369 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/glogg
+370 silly gentlyRm /home/vagrant/.npm/graceful-fs is being purged
+371 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/graceful-fs
+372 silly gentlyRm /home/vagrant/.npm/graceful-readlink is being purged
+373 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/graceful-readlink
+374 silly gentlyRm /home/vagrant/.npm/growly is being purged
+375 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/growly
+376 silly gentlyRm /home/vagrant/.npm/gulp is being purged
+377 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp
+378 silly gentlyRm /home/vagrant/.npm/gulp-autoprefixer is being purged
+379 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-autoprefixer
+380 silly gentlyRm /home/vagrant/.npm/gulp-babel is being purged
+381 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-babel
+382 silly gentlyRm /home/vagrant/.npm/gulp-batch is being purged
+383 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-batch
+384 silly gentlyRm /home/vagrant/.npm/gulp-coffee is being purged
+385 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-coffee
+386 silly gentlyRm /home/vagrant/.npm/gulp-concat is being purged
+387 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-concat
+388 silly gentlyRm /home/vagrant/.npm/gulp-if is being purged
+389 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-if
+390 silly gentlyRm /home/vagrant/.npm/gulp-jshint is being purged
+391 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-jshint
+392 silly gentlyRm /home/vagrant/.npm/gulp-less is being purged
+393 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-less
+394 silly gentlyRm /home/vagrant/.npm/gulp-load-plugins is being purged
+395 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-load-plugins
+396 silly gentlyRm /home/vagrant/.npm/gulp-logger is being purged
+397 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-logger
+398 silly gentlyRm /home/vagrant/.npm/gulp-match is being purged
+399 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-match
+400 silly gentlyRm /home/vagrant/.npm/gulp-minify-css is being purged
+401 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-minify-css
+402 silly gentlyRm /home/vagrant/.npm/gulp-notify is being purged
+403 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-notify
+404 silly gentlyRm /home/vagrant/.npm/gulp-phpspec is being purged
+405 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-phpspec
+406 silly gentlyRm /home/vagrant/.npm/gulp-phpunit is being purged
+407 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-phpunit
+408 silly gentlyRm /home/vagrant/.npm/gulp-rename is being purged
+409 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-rename
+410 silly gentlyRm /home/vagrant/.npm/gulp-rev is being purged
+411 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-rev
+412 silly gentlyRm /home/vagrant/.npm/gulp-rev-replace is being purged
+413 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-rev-replace
+414 silly gentlyRm /home/vagrant/.npm/gulp-sass is being purged
+415 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-sass
+416 silly gentlyRm /home/vagrant/.npm/gulp-sourcemaps is being purged
+417 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-sourcemaps
+418 silly gentlyRm /home/vagrant/.npm/gulp-todo is being purged
+419 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-todo
+420 silly gentlyRm /home/vagrant/.npm/gulp-uglify is being purged
+421 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-uglify
+422 silly gentlyRm /home/vagrant/.npm/gulp-util is being purged
+423 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-util
+424 silly gentlyRm /home/vagrant/.npm/gulp-watch is being purged
+425 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulp-watch
+426 silly gentlyRm /home/vagrant/.npm/gulplog is being purged
+427 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/gulplog
+428 silly gentlyRm /home/vagrant/.npm/har-validator is being purged
+429 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/har-validator
+430 silly gentlyRm /home/vagrant/.npm/has is being purged
+431 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/has
+432 silly gentlyRm /home/vagrant/.npm/has-ansi is being purged
+433 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/has-ansi
+434 silly gentlyRm /home/vagrant/.npm/has-binary-data is being purged
+435 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/has-binary-data
+436 silly gentlyRm /home/vagrant/.npm/has-flag is being purged
+437 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/has-flag
+438 silly gentlyRm /home/vagrant/.npm/has-gulplog is being purged
+439 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/has-gulplog
+440 silly gentlyRm /home/vagrant/.npm/hash-sum is being purged
+441 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/hash-sum
+442 silly gentlyRm /home/vagrant/.npm/hawk is being purged
+443 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/hawk
+444 silly gentlyRm /home/vagrant/.npm/hosted-git-info is being purged
+445 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/hosted-git-info
+446 silly gentlyRm /home/vagrant/.npm/html-minifier is being purged
+447 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/html-minifier
+448 silly gentlyRm /home/vagrant/.npm/htmlescape is being purged
+449 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/htmlescape
+450 silly gentlyRm /home/vagrant/.npm/http-errors is being purged
+451 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/http-errors
+452 silly gentlyRm /home/vagrant/.npm/http-proxy is being purged
+453 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/http-proxy
+454 silly gentlyRm /home/vagrant/.npm/http-signature is being purged
+455 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/http-signature
+456 silly gentlyRm /home/vagrant/.npm/https-browserify is being purged
+457 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/https-browserify
+458 silly gentlyRm /home/vagrant/.npm/ieee754 is being purged
+459 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ieee754
+460 silly gentlyRm /home/vagrant/.npm/immutable is being purged
+461 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/immutable
+462 silly gentlyRm /home/vagrant/.npm/indent-string is being purged
+463 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/indent-string
+464 silly gentlyRm /home/vagrant/.npm/indexes-of is being purged
+465 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/indexes-of
+466 silly gentlyRm /home/vagrant/.npm/indexof is being purged
+467 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/indexof
+468 silly gentlyRm /home/vagrant/.npm/indx is being purged
+469 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/indx
+470 silly gentlyRm /home/vagrant/.npm/inflight is being purged
+471 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/inflight
+472 silly gentlyRm /home/vagrant/.npm/inherits is being purged
+473 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/inherits
+474 silly gentlyRm /home/vagrant/.npm/inline-source-map is being purged
+475 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/inline-source-map
+476 silly gentlyRm /home/vagrant/.npm/insert-css is being purged
+477 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/insert-css
+478 silly gentlyRm /home/vagrant/.npm/insert-module-globals is being purged
+479 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/insert-module-globals
+480 silly gentlyRm /home/vagrant/.npm/interpret is being purged
+481 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/interpret
+482 silly gentlyRm /home/vagrant/.npm/invert-kv is being purged
+483 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/invert-kv
+484 silly gentlyRm /home/vagrant/.npm/is is being purged
+485 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is
+486 silly gentlyRm /home/vagrant/.npm/is-absolute is being purged
+487 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-absolute
+488 silly gentlyRm /home/vagrant/.npm/is-array is being purged
+489 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-array
+490 silly gentlyRm /home/vagrant/.npm/is-binary-path is being purged
+491 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-binary-path
+492 silly gentlyRm /home/vagrant/.npm/is-buffer is being purged
+493 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-buffer
+494 silly gentlyRm /home/vagrant/.npm/is-builtin-module is being purged
+495 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-builtin-module
+496 silly gentlyRm /home/vagrant/.npm/is-dotfile is being purged
+497 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-dotfile
+498 silly gentlyRm /home/vagrant/.npm/is-equal-shallow is being purged
+499 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-equal-shallow
+500 silly gentlyRm /home/vagrant/.npm/is-extglob is being purged
+501 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-extglob
+502 silly gentlyRm /home/vagrant/.npm/is-finite is being purged
+503 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-finite
+504 silly gentlyRm /home/vagrant/.npm/is-fullwidth-code-point is being purged
+505 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-fullwidth-code-point
+506 silly gentlyRm /home/vagrant/.npm/is-glob is being purged
+507 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-glob
+508 silly gentlyRm /home/vagrant/.npm/is-lower-case is being purged
+509 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-lower-case
+510 silly gentlyRm /home/vagrant/.npm/is-number is being purged
+511 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-number
+512 silly gentlyRm /home/vagrant/.npm/is-path-cwd is being purged
+513 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-path-cwd
+514 silly gentlyRm /home/vagrant/.npm/is-path-in-cwd is being purged
+515 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-path-in-cwd
+516 silly gentlyRm /home/vagrant/.npm/is-path-inside is being purged
+517 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-path-inside
+518 silly gentlyRm /home/vagrant/.npm/is-plain-obj is being purged
+519 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-plain-obj
+520 silly gentlyRm /home/vagrant/.npm/is-primitive is being purged
+521 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-primitive
+522 silly gentlyRm /home/vagrant/.npm/is-regexp is being purged
+523 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-regexp
+524 silly gentlyRm /home/vagrant/.npm/is-upper-case is being purged
+525 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-upper-case
+526 silly gentlyRm /home/vagrant/.npm/is-utf8 is being purged
+527 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/is-utf8
+528 silly gentlyRm /home/vagrant/.npm/isarray is being purged
+529 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/isarray
+530 silly gentlyRm /home/vagrant/.npm/isobject is being purged
+531 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/isobject
+532 silly gentlyRm /home/vagrant/.npm/isstream is being purged
+533 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/isstream
+534 silly gentlyRm /home/vagrant/.npm/js-base64 is being purged
+535 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/js-base64
+536 silly gentlyRm /home/vagrant/.npm/jshint is being purged
+537 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/jshint
+538 silly gentlyRm /home/vagrant/.npm/jshint-stylish is being purged
+539 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/jshint-stylish
+540 silly gentlyRm /home/vagrant/.npm/json-stable-stringify is being purged
+541 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/json-stable-stringify
+542 silly gentlyRm /home/vagrant/.npm/json-stringify-safe is being purged
+543 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/json-stringify-safe
+544 silly gentlyRm /home/vagrant/.npm/json2xml is being purged
+545 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/json2xml
+546 silly gentlyRm /home/vagrant/.npm/jsonify is being purged
+547 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/jsonify
+548 silly gentlyRm /home/vagrant/.npm/kind-of is being purged
+549 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/kind-of
+550 silly gentlyRm /home/vagrant/.npm/labeled-stream-splicer is being purged
+551 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/labeled-stream-splicer
+552 silly gentlyRm /home/vagrant/.npm/laravel-elixir is being purged
+553 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/laravel-elixir
+554 silly gentlyRm /home/vagrant/.npm/lazy-cache is being purged
+555 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lazy-cache
+556 silly gentlyRm /home/vagrant/.npm/lcid is being purged
+557 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lcid
+558 silly gentlyRm /home/vagrant/.npm/leasot is being purged
+559 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/leasot
+560 silly gentlyRm /home/vagrant/.npm/less is being purged
+561 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/less
+562 silly gentlyRm /home/vagrant/.npm/lexical-scope is being purged
+563 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lexical-scope
+564 silly gentlyRm /home/vagrant/.npm/liftoff is being purged
+565 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/liftoff
+566 silly gentlyRm /home/vagrant/.npm/load-json-file is being purged
+567 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/load-json-file
+568 silly gentlyRm /home/vagrant/.npm/localtunnel is being purged
+569 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/localtunnel
+570 silly gentlyRm /home/vagrant/.npm/lodash is being purged
+571 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash
+572 silly gentlyRm /home/vagrant/.npm/lodash._arraycopy is being purged
+573 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._arraycopy
+574 silly gentlyRm /home/vagrant/.npm/lodash._arrayeach is being purged
+575 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._arrayeach
+576 silly gentlyRm /home/vagrant/.npm/lodash._arraymap is being purged
+577 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._arraymap
+578 silly gentlyRm /home/vagrant/.npm/lodash._baseassign is being purged
+579 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._baseassign
+580 silly gentlyRm /home/vagrant/.npm/lodash._baseclone is being purged
+581 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._baseclone
+582 silly gentlyRm /home/vagrant/.npm/lodash._basecopy is being purged
+583 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._basecopy
+584 silly gentlyRm /home/vagrant/.npm/lodash._basedifference is being purged
+585 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._basedifference
+586 silly gentlyRm /home/vagrant/.npm/lodash._baseflatten is being purged
+587 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._baseflatten
+588 silly gentlyRm /home/vagrant/.npm/lodash._basefor is being purged
+589 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._basefor
+590 silly gentlyRm /home/vagrant/.npm/lodash._baseindexof is being purged
+591 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._baseindexof
+592 silly gentlyRm /home/vagrant/.npm/lodash._basetostring is being purged
+593 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._basetostring
+594 silly gentlyRm /home/vagrant/.npm/lodash._basevalues is being purged
+595 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._basevalues
+596 silly gentlyRm /home/vagrant/.npm/lodash._bindcallback is being purged
+597 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._bindcallback
+598 silly gentlyRm /home/vagrant/.npm/lodash._cacheindexof is being purged
+599 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._cacheindexof
+600 silly gentlyRm /home/vagrant/.npm/lodash._createassigner is being purged
+601 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._createassigner
+602 silly gentlyRm /home/vagrant/.npm/lodash._createcache is being purged
+603 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._createcache
+604 silly gentlyRm /home/vagrant/.npm/lodash._escapehtmlchar is being purged
+605 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._escapehtmlchar
+606 silly gentlyRm /home/vagrant/.npm/lodash._escapestringchar is being purged
+607 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._escapestringchar
+608 silly gentlyRm /home/vagrant/.npm/lodash._getnative is being purged
+609 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._getnative
+610 silly gentlyRm /home/vagrant/.npm/lodash._htmlescapes is being purged
+611 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._htmlescapes
+612 silly gentlyRm /home/vagrant/.npm/lodash._isiterateecall is being purged
+613 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._isiterateecall
+614 silly gentlyRm /home/vagrant/.npm/lodash._isnative is being purged
+615 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._isnative
+616 silly gentlyRm /home/vagrant/.npm/lodash._objecttypes is being purged
+617 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._objecttypes
+618 silly gentlyRm /home/vagrant/.npm/lodash._pickbyarray is being purged
+619 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._pickbyarray
+620 silly gentlyRm /home/vagrant/.npm/lodash._pickbycallback is being purged
+621 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._pickbycallback
+622 silly gentlyRm /home/vagrant/.npm/lodash._reescape is being purged
+623 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._reescape
+624 silly gentlyRm /home/vagrant/.npm/lodash._reevaluate is being purged
+625 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._reevaluate
+626 silly gentlyRm /home/vagrant/.npm/lodash._reinterpolate is being purged
+627 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._reinterpolate
+628 silly gentlyRm /home/vagrant/.npm/lodash._reunescapedhtml is being purged
+629 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._reunescapedhtml
+630 silly gentlyRm /home/vagrant/.npm/lodash._shimkeys is being purged
+631 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash._shimkeys
+632 silly gentlyRm /home/vagrant/.npm/lodash.assign is being purged
+633 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.assign
+634 silly gentlyRm /home/vagrant/.npm/lodash.clonedeep is being purged
+635 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.clonedeep
+636 silly gentlyRm /home/vagrant/.npm/lodash.compact is being purged
+637 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.compact
+638 silly gentlyRm /home/vagrant/.npm/lodash.defaults is being purged
+639 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.defaults
+640 silly gentlyRm /home/vagrant/.npm/lodash.escape is being purged
+641 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.escape
+642 silly gentlyRm /home/vagrant/.npm/lodash.flatten is being purged
+643 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.flatten
+644 silly gentlyRm /home/vagrant/.npm/lodash.isarguments is being purged
+645 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.isarguments
+646 silly gentlyRm /home/vagrant/.npm/lodash.isarray is being purged
+647 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.isarray
+648 silly gentlyRm /home/vagrant/.npm/lodash.isobject is being purged
+649 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.isobject
+650 silly gentlyRm /home/vagrant/.npm/lodash.isplainobject is being purged
+651 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.isplainobject
+652 silly gentlyRm /home/vagrant/.npm/lodash.istypedarray is being purged
+653 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.istypedarray
+654 silly gentlyRm /home/vagrant/.npm/lodash.keys is being purged
+655 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.keys
+656 silly gentlyRm /home/vagrant/.npm/lodash.keysin is being purged
+657 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.keysin
+658 silly gentlyRm /home/vagrant/.npm/lodash.memoize is being purged
+659 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.memoize
+660 silly gentlyRm /home/vagrant/.npm/lodash.merge is being purged
+661 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.merge
+662 silly gentlyRm /home/vagrant/.npm/lodash.omit is being purged
+663 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.omit
+664 silly gentlyRm /home/vagrant/.npm/lodash.restparam is being purged
+665 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.restparam
+666 silly gentlyRm /home/vagrant/.npm/lodash.template is being purged
+667 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.template
+668 silly gentlyRm /home/vagrant/.npm/lodash.templatesettings is being purged
+669 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.templatesettings
+670 silly gentlyRm /home/vagrant/.npm/lodash.toplainobject is being purged
+671 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.toplainobject
+672 silly gentlyRm /home/vagrant/.npm/lodash.values is being purged
+673 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lodash.values
+674 silly gentlyRm /home/vagrant/.npm/log-symbols is being purged
+675 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/log-symbols
+676 silly gentlyRm /home/vagrant/.npm/longest is being purged
+677 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/longest
+678 silly gentlyRm /home/vagrant/.npm/loud-rejection is being purged
+679 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/loud-rejection
+680 silly gentlyRm /home/vagrant/.npm/lower-case is being purged
+681 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lower-case
+682 silly gentlyRm /home/vagrant/.npm/lower-case-first is being purged
+683 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lower-case-first
+684 silly gentlyRm /home/vagrant/.npm/lru-cache is being purged
+685 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/lru-cache
+686 silly gentlyRm /home/vagrant/.npm/map-async is being purged
+687 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/map-async
+688 silly gentlyRm /home/vagrant/.npm/map-obj is being purged
+689 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/map-obj
+690 silly gentlyRm /home/vagrant/.npm/map-stream is being purged
+691 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/map-stream
+692 silly gentlyRm /home/vagrant/.npm/marked is being purged
+693 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/marked
+694 silly gentlyRm /home/vagrant/.npm/marked-terminal is being purged
+695 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/marked-terminal
+696 silly gentlyRm /home/vagrant/.npm/meow is being purged
+697 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/meow
+698 silly gentlyRm /home/vagrant/.npm/merge is being purged
+699 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/merge
+700 silly gentlyRm /home/vagrant/.npm/merge-stream is being purged
+701 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/merge-stream
+702 silly gentlyRm /home/vagrant/.npm/micromatch is being purged
+703 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/micromatch
+704 silly gentlyRm /home/vagrant/.npm/miller-rabin is being purged
+705 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/miller-rabin
+706 silly gentlyRm /home/vagrant/.npm/mime is being purged
+707 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/mime
+708 silly gentlyRm /home/vagrant/.npm/mime-db is being purged
+709 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/mime-db
+710 silly gentlyRm /home/vagrant/.npm/mime-types is being purged
+711 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/mime-types
+712 silly gentlyRm /home/vagrant/.npm/minimatch is being purged
+713 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/minimatch
+714 silly gentlyRm /home/vagrant/.npm/minimist is being purged
+715 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/minimist
+716 silly gentlyRm /home/vagrant/.npm/mkdirp is being purged
+717 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/mkdirp
+718 silly gentlyRm /home/vagrant/.npm/modify-filename is being purged
+719 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/modify-filename
+720 silly gentlyRm /home/vagrant/.npm/module-deps is being purged
+721 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/module-deps
+722 silly gentlyRm /home/vagrant/.npm/ms is being purged
+723 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ms
+724 silly gentlyRm /home/vagrant/.npm/multimatch is being purged
+725 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/multimatch
+726 silly gentlyRm /home/vagrant/.npm/multipipe is being purged
+727 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/multipipe
+728 silly gentlyRm /home/vagrant/.npm/negotiator is being purged
+729 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/negotiator
+730 silly gentlyRm /home/vagrant/.npm/next-tick is being purged
+731 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/next-tick
+732 silly gentlyRm /home/vagrant/.npm/node-notifier is being purged
+733 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/node-notifier
+734 silly gentlyRm /home/vagrant/.npm/node-sass is being purged
+735 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/node-sass
+736 silly gentlyRm /home/vagrant/.npm/node-uuid is being purged
+737 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/node-uuid
+738 silly gentlyRm /home/vagrant/.npm/node.extend is being purged
+739 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/node.extend
+740 silly gentlyRm /home/vagrant/.npm/normalize-package-data is being purged
+741 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/normalize-package-data
+742 silly gentlyRm /home/vagrant/.npm/normalize-path is being purged
+743 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/normalize-path
+744 silly gentlyRm /home/vagrant/.npm/num2fraction is being purged
+745 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/num2fraction
+746 silly gentlyRm /home/vagrant/.npm/number-is-nan is being purged
+747 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/number-is-nan
+748 silly gentlyRm /home/vagrant/.npm/oauth-sign is being purged
+749 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/oauth-sign
+750 silly gentlyRm /home/vagrant/.npm/object-assign is being purged
+751 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/object-assign
+752 silly gentlyRm /home/vagrant/.npm/object-inspect is being purged
+753 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/object-inspect
+754 silly gentlyRm /home/vagrant/.npm/object-keys is being purged
+755 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/object-keys
+756 silly gentlyRm /home/vagrant/.npm/object-path is being purged
+757 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/object-path
+758 silly gentlyRm /home/vagrant/.npm/object.omit is being purged
+759 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/object.omit
+760 silly gentlyRm /home/vagrant/.npm/on-finished is being purged
+761 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/on-finished
+762 silly gentlyRm /home/vagrant/.npm/once is being purged
+763 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/once
+764 silly gentlyRm /home/vagrant/.npm/onetime is being purged
+765 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/onetime
+766 silly gentlyRm /home/vagrant/.npm/openurl is being purged
+767 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/openurl
+768 silly gentlyRm /home/vagrant/.npm/opn is being purged
+769 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/opn
+770 silly gentlyRm /home/vagrant/.npm/opt-merger is being purged
+771 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/opt-merger
+772 silly gentlyRm /home/vagrant/.npm/orchestrator is being purged
+773 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/orchestrator
+774 silly gentlyRm /home/vagrant/.npm/ordered-read-streams is being purged
+775 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ordered-read-streams
+776 silly gentlyRm /home/vagrant/.npm/os-browserify is being purged
+777 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/os-browserify
+778 silly gentlyRm /home/vagrant/.npm/os-homedir is being purged
+779 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/os-homedir
+780 silly gentlyRm /home/vagrant/.npm/os-locale is being purged
+781 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/os-locale
+782 silly gentlyRm /home/vagrant/.npm/outpipe is being purged
+783 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/outpipe
+784 silly gentlyRm /home/vagrant/.npm/output-file-sync is being purged
+785 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/output-file-sync
+786 silly gentlyRm /home/vagrant/.npm/pako is being purged
+787 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/pako
+788 silly gentlyRm /home/vagrant/.npm/param-case is being purged
+789 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/param-case
+790 silly gentlyRm /home/vagrant/.npm/parents is being purged
+791 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/parents
+792 silly gentlyRm /home/vagrant/.npm/parse-asn1 is being purged
+793 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/parse-asn1
+794 silly gentlyRm /home/vagrant/.npm/parse-filepath is being purged
+795 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/parse-filepath
+796 silly gentlyRm /home/vagrant/.npm/parse-glob is being purged
+797 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/parse-glob
+798 silly gentlyRm /home/vagrant/.npm/parse-json is being purged
+799 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/parse-json
+800 silly gentlyRm /home/vagrant/.npm/parse5 is being purged
+801 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/parse5
+802 silly gentlyRm /home/vagrant/.npm/parseurl is being purged
+803 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/parseurl
+804 silly gentlyRm /home/vagrant/.npm/partialify is being purged
+805 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/partialify
+806 silly gentlyRm /home/vagrant/.npm/pascal-case is being purged
+807 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/pascal-case
+808 silly gentlyRm /home/vagrant/.npm/path is being purged
+809 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/path
+810 silly gentlyRm /home/vagrant/.npm/path-browserify is being purged
+811 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/path-browserify
+812 silly gentlyRm /home/vagrant/.npm/path-case is being purged
+813 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/path-case
+814 silly gentlyRm /home/vagrant/.npm/path-ends-with is being purged
+815 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/path-ends-with
+816 silly gentlyRm /home/vagrant/.npm/path-exists is being purged
+817 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/path-exists
+818 silly gentlyRm /home/vagrant/.npm/path-is-absolute is being purged
+819 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/path-is-absolute
+820 silly gentlyRm /home/vagrant/.npm/path-is-inside is being purged
+821 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/path-is-inside
+822 silly gentlyRm /home/vagrant/.npm/path-platform is being purged
+823 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/path-platform
+824 silly gentlyRm /home/vagrant/.npm/path-type is being purged
+825 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/path-type
+826 silly gentlyRm /home/vagrant/.npm/pause-stream is being purged
+827 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/pause-stream
+828 silly gentlyRm /home/vagrant/.npm/pbkdf2 is being purged
+829 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/pbkdf2
+830 silly gentlyRm /home/vagrant/.npm/pify is being purged
+831 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/pify
+832 silly gentlyRm /home/vagrant/.npm/pinkie is being purged
+833 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/pinkie
+834 silly gentlyRm /home/vagrant/.npm/pinkie-promise is being purged
+835 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/pinkie-promise
+836 silly gentlyRm /home/vagrant/.npm/portscanner is being purged
+837 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/portscanner
+838 silly gentlyRm /home/vagrant/.npm/postcss is being purged
+839 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/postcss
+840 silly gentlyRm /home/vagrant/.npm/postcss-selector-parser is being purged
+841 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/postcss-selector-parser
+842 silly gentlyRm /home/vagrant/.npm/preserve is being purged
+843 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/preserve
+844 silly gentlyRm /home/vagrant/.npm/pretty-hrtime is being purged
+845 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/pretty-hrtime
+846 silly gentlyRm /home/vagrant/.npm/process is being purged
+847 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/process
+848 silly gentlyRm /home/vagrant/.npm/process-nextick-args is being purged
+849 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/process-nextick-args
+850 silly gentlyRm /home/vagrant/.npm/public-encrypt is being purged
+851 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/public-encrypt
+852 silly gentlyRm /home/vagrant/.npm/punycode is being purged
+853 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/punycode
+854 silly gentlyRm /home/vagrant/.npm/qs is being purged
+855 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/qs
+856 silly gentlyRm /home/vagrant/.npm/query-string is being purged
+857 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/query-string
+858 silly gentlyRm /home/vagrant/.npm/querystring is being purged
+859 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/querystring
+860 silly gentlyRm /home/vagrant/.npm/querystring-es3 is being purged
+861 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/querystring-es3
+862 silly gentlyRm /home/vagrant/.npm/randomatic is being purged
+863 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/randomatic
+864 silly gentlyRm /home/vagrant/.npm/randombytes is being purged
+865 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/randombytes
+866 silly gentlyRm /home/vagrant/.npm/range-parser is being purged
+867 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/range-parser
+868 silly gentlyRm /home/vagrant/.npm/rcfinder is being purged
+869 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/rcfinder
+870 silly gentlyRm /home/vagrant/.npm/rcloader is being purged
+871 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/rcloader
+872 silly gentlyRm /home/vagrant/.npm/react is being purged
+873 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/react
+874 silly gentlyRm /home/vagrant/.npm/read-only-stream is being purged
+875 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/read-only-stream
+876 silly gentlyRm /home/vagrant/.npm/read-pkg is being purged
+877 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/read-pkg
+878 silly gentlyRm /home/vagrant/.npm/read-pkg-up is being purged
+879 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/read-pkg-up
+880 silly gentlyRm /home/vagrant/.npm/readable-stream is being purged
+881 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/readable-stream
+882 silly gentlyRm /home/vagrant/.npm/readable-wrap is being purged
+883 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/readable-wrap
+884 silly gentlyRm /home/vagrant/.npm/readdirp is being purged
+885 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/readdirp
+886 silly gentlyRm /home/vagrant/.npm/rechoir is being purged
+887 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/rechoir
+888 silly gentlyRm /home/vagrant/.npm/redent is being purged
+889 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/redent
+890 silly gentlyRm /home/vagrant/.npm/regex-cache is being purged
+891 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/regex-cache
+892 silly gentlyRm /home/vagrant/.npm/registry.npmjs.org is being purged
+893 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/registry.npmjs.org
+894 silly gentlyRm /home/vagrant/.npm/relateurl is being purged
+895 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/relateurl
+896 silly gentlyRm /home/vagrant/.npm/rename is being purged
+897 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/rename
+898 silly gentlyRm /home/vagrant/.npm/repeat-element is being purged
+899 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/repeat-element
+900 silly gentlyRm /home/vagrant/.npm/repeat-string is being purged
+901 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/repeat-string
+902 silly gentlyRm /home/vagrant/.npm/repeating is being purged
+903 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/repeating
+904 silly gentlyRm /home/vagrant/.npm/replace-ext is being purged
+905 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/replace-ext
+906 silly gentlyRm /home/vagrant/.npm/request is being purged
+907 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/request
+908 silly gentlyRm /home/vagrant/.npm/require-dir is being purged
+909 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/require-dir
+910 silly gentlyRm /home/vagrant/.npm/requires-port is being purged
+911 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/requires-port
+912 silly gentlyRm /home/vagrant/.npm/resolve is being purged
+913 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/resolve
+914 silly gentlyRm /home/vagrant/.npm/resp-modifier is being purged
+915 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/resp-modifier
+916 silly gentlyRm /home/vagrant/.npm/rev-hash is being purged
+917 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/rev-hash
+918 silly gentlyRm /home/vagrant/.npm/rev-path is being purged
+919 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/rev-path
+920 silly gentlyRm /home/vagrant/.npm/rimraf is being purged
+921 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/rimraf
+922 silly gentlyRm /home/vagrant/.npm/ripemd160 is being purged
+923 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ripemd160
+924 silly gentlyRm /home/vagrant/.npm/run-sequence is being purged
+925 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/run-sequence
+926 silly gentlyRm /home/vagrant/.npm/semver is being purged
+927 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/semver
+928 silly gentlyRm /home/vagrant/.npm/send is being purged
+929 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/send
+930 silly gentlyRm /home/vagrant/.npm/sentence-case is being purged
+931 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/sentence-case
+932 silly gentlyRm /home/vagrant/.npm/sequencify is being purged
+933 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/sequencify
+934 silly gentlyRm /home/vagrant/.npm/serve-index is being purged
+935 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/serve-index
+936 silly gentlyRm /home/vagrant/.npm/serve-static is being purged
+937 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/serve-static
+938 silly gentlyRm /home/vagrant/.npm/set-immediate-shim is being purged
+939 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/set-immediate-shim
+940 silly gentlyRm /home/vagrant/.npm/sha.js is being purged
+941 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/sha.js
+942 silly gentlyRm /home/vagrant/.npm/shasum is being purged
+943 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/shasum
+944 silly gentlyRm /home/vagrant/.npm/shell-quote is being purged
+945 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/shell-quote
+946 silly gentlyRm /home/vagrant/.npm/shellwords is being purged
+947 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/shellwords
+948 silly gentlyRm /home/vagrant/.npm/sigmund is being purged
+949 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/sigmund
+950 silly gentlyRm /home/vagrant/.npm/slash is being purged
+951 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/slash
+952 silly gentlyRm /home/vagrant/.npm/snake-case is being purged
+953 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/snake-case
+954 silly gentlyRm /home/vagrant/.npm/socket.io is being purged
+955 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/socket.io
+956 silly gentlyRm /home/vagrant/.npm/socket.io-adapter is being purged
+957 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/socket.io-adapter
+958 silly gentlyRm /home/vagrant/.npm/socket.io-client is being purged
+959 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/socket.io-client
+960 silly gentlyRm /home/vagrant/.npm/sort-keys is being purged
+961 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/sort-keys
+962 silly gentlyRm /home/vagrant/.npm/source-map is being purged
+963 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/source-map
+964 silly gentlyRm /home/vagrant/.npm/sparkles is being purged
+965 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/sparkles
+966 silly gentlyRm /home/vagrant/.npm/spdx-correct is being purged
+967 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/spdx-correct
+968 silly gentlyRm /home/vagrant/.npm/spdx-exceptions is being purged
+969 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/spdx-exceptions
+970 silly gentlyRm /home/vagrant/.npm/spdx-expression-parse is being purged
+971 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/spdx-expression-parse
+972 silly gentlyRm /home/vagrant/.npm/spdx-license-ids is being purged
+973 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/spdx-license-ids
+974 silly gentlyRm /home/vagrant/.npm/split is being purged
+975 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/split
+976 silly gentlyRm /home/vagrant/.npm/statuses is being purged
+977 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/statuses
+978 silly gentlyRm /home/vagrant/.npm/stream-array is being purged
+979 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/stream-array
+980 silly gentlyRm /home/vagrant/.npm/stream-browserify is being purged
+981 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/stream-browserify
+982 silly gentlyRm /home/vagrant/.npm/stream-combiner is being purged
+983 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/stream-combiner
+984 silly gentlyRm /home/vagrant/.npm/stream-consume is being purged
+985 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/stream-consume
+986 silly gentlyRm /home/vagrant/.npm/stream-exhaust is being purged
+987 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/stream-exhaust
+988 silly gentlyRm /home/vagrant/.npm/stream-http is being purged
+989 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/stream-http
+990 silly gentlyRm /home/vagrant/.npm/stream-splicer is being purged
+991 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/stream-splicer
+992 silly gentlyRm /home/vagrant/.npm/strict-uri-encode is being purged
+993 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/strict-uri-encode
+994 silly gentlyRm /home/vagrant/.npm/string-length is being purged
+995 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/string-length
+996 silly gentlyRm /home/vagrant/.npm/string-to-js is being purged
+997 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/string-to-js
+998 silly gentlyRm /home/vagrant/.npm/string-width is being purged
+999 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/string-width
+1000 silly gentlyRm /home/vagrant/.npm/string_decoder is being purged
+1001 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/string_decoder
+1002 silly gentlyRm /home/vagrant/.npm/stringstream is being purged
+1003 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/stringstream
+1004 silly gentlyRm /home/vagrant/.npm/strip-ansi is being purged
+1005 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/strip-ansi
+1006 silly gentlyRm /home/vagrant/.npm/strip-bom is being purged
+1007 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/strip-bom
+1008 silly gentlyRm /home/vagrant/.npm/strip-bom-stream is being purged
+1009 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/strip-bom-stream
+1010 silly gentlyRm /home/vagrant/.npm/strip-indent is being purged
+1011 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/strip-indent
+1012 silly gentlyRm /home/vagrant/.npm/subarg is being purged
+1013 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/subarg
+1014 silly gentlyRm /home/vagrant/.npm/success-symbol is being purged
+1015 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/success-symbol
+1016 silly gentlyRm /home/vagrant/.npm/supports-color is being purged
+1017 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/supports-color
+1018 silly gentlyRm /home/vagrant/.npm/swap-case is being purged
+1019 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/swap-case
+1020 silly gentlyRm /home/vagrant/.npm/syntax-error is being purged
+1021 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/syntax-error
+1022 silly gentlyRm /home/vagrant/.npm/ternary-stream is being purged
+1023 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ternary-stream
+1024 silly gentlyRm /home/vagrant/.npm/text-table is being purged
+1025 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/text-table
+1026 silly gentlyRm /home/vagrant/.npm/tfunk is being purged
+1027 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/tfunk
+1028 silly gentlyRm /home/vagrant/.npm/through is being purged
+1029 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/through
+1030 silly gentlyRm /home/vagrant/.npm/through2 is being purged
+1031 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/through2
+1032 silly gentlyRm /home/vagrant/.npm/tildify is being purged
+1033 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/tildify
+1034 silly gentlyRm /home/vagrant/.npm/timers-browserify is being purged
+1035 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/timers-browserify
+1036 silly gentlyRm /home/vagrant/.npm/title-case is being purged
+1037 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/title-case
+1038 silly gentlyRm /home/vagrant/.npm/tough-cookie is being purged
+1039 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/tough-cookie
+1040 silly gentlyRm /home/vagrant/.npm/trim-newlines is being purged
+1041 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/trim-newlines
+1042 silly gentlyRm /home/vagrant/.npm/tty-browserify is being purged
+1043 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/tty-browserify
+1044 silly gentlyRm /home/vagrant/.npm/tunnel-agent is being purged
+1045 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/tunnel-agent
+1046 silly gentlyRm /home/vagrant/.npm/type-detect is being purged
+1047 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/type-detect
+1048 silly gentlyRm /home/vagrant/.npm/typedarray is being purged
+1049 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/typedarray
+1050 silly gentlyRm /home/vagrant/.npm/ua-parser-js is being purged
+1051 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ua-parser-js
+1052 silly gentlyRm /home/vagrant/.npm/ucfirst is being purged
+1053 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/ucfirst
+1054 silly gentlyRm /home/vagrant/.npm/uglify-js is being purged
+1055 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/uglify-js
+1056 silly gentlyRm /home/vagrant/.npm/uglify-save-license is being purged
+1057 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/uglify-save-license
+1058 silly gentlyRm /home/vagrant/.npm/uglify-to-browserify is being purged
+1059 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/uglify-to-browserify
+1060 silly gentlyRm /home/vagrant/.npm/umd is being purged
+1061 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/umd
+1062 silly gentlyRm /home/vagrant/.npm/underscore is being purged
+1063 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/underscore
+1064 silly gentlyRm /home/vagrant/.npm/underscore-deep-extend is being purged
+1065 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/underscore-deep-extend
+1066 silly gentlyRm /home/vagrant/.npm/uniq is being purged
+1067 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/uniq
+1068 silly gentlyRm /home/vagrant/.npm/unique-stream is being purged
+1069 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/unique-stream
+1070 silly gentlyRm /home/vagrant/.npm/unpipe is being purged
+1071 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/unpipe
+1072 silly gentlyRm /home/vagrant/.npm/upper-case is being purged
+1073 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/upper-case
+1074 silly gentlyRm /home/vagrant/.npm/upper-case-first is being purged
+1075 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/upper-case-first
+1076 silly gentlyRm /home/vagrant/.npm/url is being purged
+1077 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/url
+1078 silly gentlyRm /home/vagrant/.npm/user-home is being purged
+1079 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/user-home
+1080 silly gentlyRm /home/vagrant/.npm/util is being purged
+1081 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/util
+1082 silly gentlyRm /home/vagrant/.npm/util-deprecate is being purged
+1083 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/util-deprecate
+1084 silly gentlyRm /home/vagrant/.npm/utils-merge is being purged
+1085 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/utils-merge
+1086 silly gentlyRm /home/vagrant/.npm/v8flags is being purged
+1087 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/v8flags
+1088 silly gentlyRm /home/vagrant/.npm/validate-npm-package-license is being purged
+1089 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/validate-npm-package-license
+1090 silly gentlyRm /home/vagrant/.npm/vinyl is being purged
+1091 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vinyl
+1092 silly gentlyRm /home/vagrant/.npm/vinyl-buffer is being purged
+1093 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vinyl-buffer
+1094 silly gentlyRm /home/vagrant/.npm/vinyl-bufferstream is being purged
+1095 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vinyl-bufferstream
+1096 silly gentlyRm /home/vagrant/.npm/vinyl-file is being purged
+1097 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vinyl-file
+1098 silly gentlyRm /home/vagrant/.npm/vinyl-fs is being purged
+1099 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vinyl-fs
+1100 silly gentlyRm /home/vagrant/.npm/vinyl-paths is being purged
+1101 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vinyl-paths
+1102 silly gentlyRm /home/vagrant/.npm/vinyl-source-stream is being purged
+1103 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vinyl-source-stream
+1104 silly gentlyRm /home/vagrant/.npm/vinyl-sourcemaps-apply is being purged
+1105 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vinyl-sourcemaps-apply
+1106 silly gentlyRm /home/vagrant/.npm/vm-browserify is being purged
+1107 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vm-browserify
+1108 silly gentlyRm /home/vagrant/.npm/vueify is being purged
+1109 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/vueify
+1110 silly gentlyRm /home/vagrant/.npm/watchify is being purged
+1111 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/watchify
+1112 silly gentlyRm /home/vagrant/.npm/when is being purged
+1113 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/when
+1114 silly gentlyRm /home/vagrant/.npm/which is being purged
+1115 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/which
+1116 silly gentlyRm /home/vagrant/.npm/window-size is being purged
+1117 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/window-size
+1118 silly gentlyRm /home/vagrant/.npm/wordwrap is being purged
+1119 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/wordwrap
+1120 silly gentlyRm /home/vagrant/.npm/wrap-ansi is being purged
+1121 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/wrap-ansi
+1122 silly gentlyRm /home/vagrant/.npm/wrappy is being purged
+1123 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/wrappy
+1124 silly gentlyRm /home/vagrant/.npm/xtend is being purged
+1125 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/xtend
+1126 silly gentlyRm /home/vagrant/.npm/y18n is being purged
+1127 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/y18n
+1128 silly gentlyRm /home/vagrant/.npm/yargs is being purged
+1129 verbose gentlyRm don't care about contents; nuking /home/vagrant/.npm/yargs
+1130 silly vacuum-fs purging /home/vagrant/.npm/JSONStream
+1131 silly vacuum-fs purging /home/vagrant/.npm/_locks
+1132 silly vacuum-fs purging /home/vagrant/.npm/accepts
+1133 silly vacuum-fs purging /home/vagrant/.npm/acorn
+1134 silly vacuum-fs purging /home/vagrant/.npm/accord
+1135 silly vacuum-fs purging /home/vagrant/.npm/amdefine
+1136 silly vacuum-fs purging /home/vagrant/.npm/ansi-green
+1137 silly vacuum-fs purging /home/vagrant/.npm/ansi-regex
+1138 silly vacuum-fs purging /home/vagrant/.npm/ansi-styles
+1139 silly vacuum-fs purging /home/vagrant/.npm/ansi-wrap
+1140 silly vacuum-fs purging /home/vagrant/.npm/anymatch
+1141 silly vacuum-fs purging /home/vagrant/.npm/archy
+1142 silly vacuum-fs purging /home/vagrant/.npm/arr-diff
+1143 silly vacuum-fs purging /home/vagrant/.npm/arr-flatten
+1144 silly vacuum-fs purging /home/vagrant/.npm/array-differ
+1145 silly vacuum-fs purging /home/vagrant/.npm/array-filter
+1146 silly vacuum-fs purging /home/vagrant/.npm/array-map
+1147 silly vacuum-fs purging /home/vagrant/.npm/array-reduce
+1148 silly vacuum-fs purging /home/vagrant/.npm/array-slice
+1149 silly vacuum-fs purging /home/vagrant/.npm/array-union
+1150 silly vacuum-fs purging /home/vagrant/.npm/array-uniq
+1151 silly vacuum-fs purging /home/vagrant/.npm/array-unique
+1152 silly vacuum-fs purging /home/vagrant/.npm/arrify
+1153 silly vacuum-fs purging /home/vagrant/.npm/asn1
+1154 silly vacuum-fs purging /home/vagrant/.npm/assert
+1155 silly vacuum-fs purging /home/vagrant/.npm/assert-plus
+1156 silly vacuum-fs purging /home/vagrant/.npm/assertion-error
+1157 silly vacuum-fs purging /home/vagrant/.npm/async
+1158 silly vacuum-fs purging /home/vagrant/.npm/async-done
+1159 silly vacuum-fs purging /home/vagrant/.npm/async-each
+1160 silly vacuum-fs purging /home/vagrant/.npm/async-each-series
+1161 silly vacuum-fs purging /home/vagrant/.npm/autoprefixer-core
+1162 silly vacuum-fs purging /home/vagrant/.npm/aws-sign2
+1163 silly vacuum-fs purging /home/vagrant/.npm/babel
+1164 silly vacuum-fs purging /home/vagrant/.npm/babel-core
+1165 silly vacuum-fs purging /home/vagrant/.npm/babelify
+1166 silly vacuum-fs purging /home/vagrant/.npm/balanced-match
+1167 silly vacuum-fs purging /home/vagrant/.npm/base64-js
+1168 silly vacuum-fs purging /home/vagrant/.npm/batch
+1169 silly vacuum-fs purging /home/vagrant/.npm/beeper
+1170 silly vacuum-fs purging /home/vagrant/.npm/binary-extensions
+1171 silly vacuum-fs purging /home/vagrant/.npm/bl
+1172 silly vacuum-fs purging /home/vagrant/.npm/bn.js
+1173 silly vacuum-fs purging /home/vagrant/.npm/brace-expansion
+1174 silly vacuum-fs purging /home/vagrant/.npm/braces
+1175 silly vacuum-fs purging /home/vagrant/.npm/brorand
+1176 silly vacuum-fs purging /home/vagrant/.npm/browser-pack
+1177 silly vacuum-fs purging /home/vagrant/.npm/browser-resolve
+1178 silly vacuum-fs purging /home/vagrant/.npm/browser-sync
+1179 silly vacuum-fs purging /home/vagrant/.npm/browser-sync-client
+1180 silly vacuum-fs purging /home/vagrant/.npm/browser-sync-ui
+1181 silly vacuum-fs purging /home/vagrant/.npm/browserify
+1182 silly vacuum-fs purging /home/vagrant/.npm/browserify-aes
+1183 silly vacuum-fs purging /home/vagrant/.npm/browserify-cipher
+1184 silly vacuum-fs purging /home/vagrant/.npm/browserify-des
+1185 silly vacuum-fs purging /home/vagrant/.npm/browserify-rsa
+1186 silly vacuum-fs purging /home/vagrant/.npm/browserify-sign
+1187 silly vacuum-fs purging /home/vagrant/.npm/browserify-zlib
+1188 silly vacuum-fs purging /home/vagrant/.npm/browserslist
+1189 silly vacuum-fs purging /home/vagrant/.npm/buffer
+1190 silly vacuum-fs purging /home/vagrant/.npm/bufferstreams
+1191 silly vacuum-fs purging /home/vagrant/.npm/builtin-modules
+1192 silly vacuum-fs purging /home/vagrant/.npm/builtin-status-codes
+1193 silly vacuum-fs purging /home/vagrant/.npm/builtins
+1194 silly vacuum-fs purging /home/vagrant/.npm/camel-case
+1195 silly vacuum-fs purging /home/vagrant/.npm/camelcase
+1196 silly vacuum-fs purging /home/vagrant/.npm/camelcase-keys
+1197 silly vacuum-fs purging /home/vagrant/.npm/caniuse-db
+1198 silly vacuum-fs purging /home/vagrant/.npm/caseless
+1199 silly vacuum-fs purging /home/vagrant/.npm/chai
+1200 silly vacuum-fs purging /home/vagrant/.npm/chalk
+1201 silly vacuum-fs purging /home/vagrant/.npm/change-case
+1202 silly vacuum-fs purging /home/vagrant/.npm/chokidar
+1203 silly vacuum-fs purging /home/vagrant/.npm/cipher-base
+1204 silly vacuum-fs purging /home/vagrant/.npm/clean-css
+1205 silly vacuum-fs purging /home/vagrant/.npm/cli
+1206 silly vacuum-fs purging /home/vagrant/.npm/cli-usage
+1207 silly vacuum-fs purging /home/vagrant/.npm/cliui
+1208 silly vacuum-fs purging /home/vagrant/.npm/clone
+1209 silly vacuum-fs purging /home/vagrant/.npm/clone-stats
+1210 silly vacuum-fs purging /home/vagrant/.npm/code-point-at
+1211 silly vacuum-fs purging /home/vagrant/.npm/coffee-script
+1212 silly vacuum-fs purging /home/vagrant/.npm/combine-source-map
+1213 silly vacuum-fs purging /home/vagrant/.npm/combined-stream
+1214 silly vacuum-fs purging /home/vagrant/.npm/commander
+1215 silly vacuum-fs purging /home/vagrant/.npm/commondir
+1216 silly vacuum-fs purging /home/vagrant/.npm/concat-map
+1217 silly vacuum-fs purging /home/vagrant/.npm/concat-stream
+1218 silly vacuum-fs purging /home/vagrant/.npm/concat-with-sourcemaps
+1219 silly vacuum-fs purging /home/vagrant/.npm/connect
+1220 silly vacuum-fs purging /home/vagrant/.npm/console-browserify
+1221 silly vacuum-fs purging /home/vagrant/.npm/constant-case
+1222 silly vacuum-fs purging /home/vagrant/.npm/constants-browserify
+1223 silly vacuum-fs purging /home/vagrant/.npm/convert-source-map
+1224 silly vacuum-fs purging /home/vagrant/.npm/cookie
+1225 silly vacuum-fs purging /home/vagrant/.npm/core-util-is
+1226 silly vacuum-fs purging /home/vagrant/.npm/create-ecdh
+1227 silly vacuum-fs purging /home/vagrant/.npm/create-hash
+1228 silly vacuum-fs purging /home/vagrant/.npm/create-hmac
+1229 silly vacuum-fs purging /home/vagrant/.npm/crypto-browserify
+1230 silly vacuum-fs purging /home/vagrant/.npm/ctype
+1231 silly vacuum-fs purging /home/vagrant/.npm/date-now
+1232 silly vacuum-fs purging /home/vagrant/.npm/dateformat
+1233 silly vacuum-fs purging /home/vagrant/.npm/deap
+1234 silly vacuum-fs purging /home/vagrant/.npm/debug
+1235 silly vacuum-fs purging /home/vagrant/.npm/decamelize
+1236 silly vacuum-fs purging /home/vagrant/.npm/deep-eql
+1237 silly vacuum-fs purging /home/vagrant/.npm/deep-equal
+1238 silly vacuum-fs purging /home/vagrant/.npm/defaults
+1239 silly vacuum-fs purging /home/vagrant/.npm/defined
+1240 silly vacuum-fs purging /home/vagrant/.npm/del
+1241 silly vacuum-fs purging /home/vagrant/.npm/delayed-stream
+1242 silly vacuum-fs purging /home/vagrant/.npm/depd
+1243 silly vacuum-fs purging /home/vagrant/.npm/deprecated
+1244 silly vacuum-fs purging /home/vagrant/.npm/deps-sort
+1245 silly vacuum-fs purging /home/vagrant/.npm/des.js
+1246 silly vacuum-fs purging /home/vagrant/.npm/destroy
+1247 silly vacuum-fs purging /home/vagrant/.npm/dev-ip
+1248 silly vacuum-fs purging /home/vagrant/.npm/diffie-hellman
+1249 silly vacuum-fs purging /home/vagrant/.npm/domain-browser
+1250 silly vacuum-fs purging /home/vagrant/.npm/dot-case
+1251 silly vacuum-fs purging /home/vagrant/.npm/duplexer
+1252 silly vacuum-fs purging /home/vagrant/.npm/duplexer2
+1253 silly vacuum-fs purging /home/vagrant/.npm/each-async
+1254 silly vacuum-fs purging /home/vagrant/.npm/easy-extender
+1255 silly vacuum-fs purging /home/vagrant/.npm/eazy-logger
+1256 silly vacuum-fs purging /home/vagrant/.npm/ee-first
+1257 silly vacuum-fs purging /home/vagrant/.npm/elliptic
+1258 silly vacuum-fs purging /home/vagrant/.npm/emitter-steward
+1259 silly vacuum-fs purging /home/vagrant/.npm/end-of-stream
+1260 silly vacuum-fs purging /home/vagrant/.npm/ends-with
+1261 silly vacuum-fs purging /home/vagrant/.npm/engine.io
+1262 silly vacuum-fs purging /home/vagrant/.npm/error-ex
+1263 silly vacuum-fs purging /home/vagrant/.npm/es6-promise
+1264 silly vacuum-fs purging /home/vagrant/.npm/escape-html
+1265 silly vacuum-fs purging /home/vagrant/.npm/escape-string-regexp
+1266 silly vacuum-fs purging /home/vagrant/.npm/etag
+1267 silly vacuum-fs purging /home/vagrant/.npm/event-stream
+1268 silly vacuum-fs purging /home/vagrant/.npm/eventemitter3
+1269 silly vacuum-fs purging /home/vagrant/.npm/events
+1270 silly vacuum-fs purging /home/vagrant/.npm/evp_bytestokey
+1271 silly vacuum-fs purging /home/vagrant/.npm/exit
+1272 silly vacuum-fs purging /home/vagrant/.npm/expand-brackets
+1273 silly vacuum-fs purging /home/vagrant/.npm/expand-range
+1274 silly vacuum-fs purging /home/vagrant/.npm/expect
+1275 silly vacuum-fs purging /home/vagrant/.npm/extend
+1276 silly vacuum-fs purging /home/vagrant/.npm/extglob
+1277 silly vacuum-fs purging /home/vagrant/.npm/fancy-log
+1278 silly vacuum-fs purging /home/vagrant/.npm/filename-regex
+1279 silly vacuum-fs purging /home/vagrant/.npm/fill-range
+1280 silly vacuum-fs purging /home/vagrant/.npm/finalhandler
+1281 silly vacuum-fs purging /home/vagrant/.npm/find-index
+1282 silly vacuum-fs purging /home/vagrant/.npm/find-up
+1283 silly vacuum-fs purging /home/vagrant/.npm/findup-sync
+1284 silly vacuum-fs purging /home/vagrant/.npm/first-chunk-stream
+1285 silly vacuum-fs purging /home/vagrant/.npm/flagged-respawn
+1286 silly vacuum-fs purging /home/vagrant/.npm/flatten
+1287 silly vacuum-fs purging /home/vagrant/.npm/fobject
+1288 silly vacuum-fs purging /home/vagrant/.npm/for-in
+1289 silly vacuum-fs purging /home/vagrant/.npm/for-own
+1290 silly vacuum-fs purging /home/vagrant/.npm/foreach
+1291 silly vacuum-fs purging /home/vagrant/.npm/forever-agent
+1292 silly vacuum-fs purging /home/vagrant/.npm/fork-stream
+1293 silly vacuum-fs purging /home/vagrant/.npm/form-data
+1294 silly vacuum-fs purging /home/vagrant/.npm/foxy
+1295 silly vacuum-fs purging /home/vagrant/.npm/fresh
+1296 silly vacuum-fs purging /home/vagrant/.npm/from
+1297 silly vacuum-fs purging /home/vagrant/.npm/fs-readdir-recursive
+1298 silly vacuum-fs purging /home/vagrant/.npm/fsevents
+1299 silly vacuum-fs purging /home/vagrant/.npm/function-bind
+1300 silly vacuum-fs purging /home/vagrant/.npm/gaze
+1301 silly vacuum-fs purging /home/vagrant/.npm/get-line-from-pos
+1302 silly vacuum-fs purging /home/vagrant/.npm/get-stdin
+1303 silly vacuum-fs purging /home/vagrant/.npm/glob
+1304 silly vacuum-fs purging /home/vagrant/.npm/glob-base
+1305 silly vacuum-fs purging /home/vagrant/.npm/glob-parent
+1306 silly vacuum-fs purging /home/vagrant/.npm/glob-stream
+1307 silly vacuum-fs purging /home/vagrant/.npm/glob-watcher
+1308 silly vacuum-fs purging /home/vagrant/.npm/glob2base
+1309 silly vacuum-fs purging /home/vagrant/.npm/globby
+1310 silly vacuum-fs purging /home/vagrant/.npm/globule
+1311 silly vacuum-fs purging /home/vagrant/.npm/glogg
+1312 silly vacuum-fs purging /home/vagrant/.npm/graceful-fs
+1313 silly vacuum-fs purging /home/vagrant/.npm/graceful-readlink
+1314 silly vacuum-fs purging /home/vagrant/.npm/growly
+1315 silly vacuum-fs purging /home/vagrant/.npm/gulp
+1316 silly vacuum-fs purging /home/vagrant/.npm/gulp-autoprefixer
+1317 silly vacuum-fs purging /home/vagrant/.npm/gulp-babel
+1318 silly vacuum-fs purging /home/vagrant/.npm/gulp-batch
+1319 silly vacuum-fs purging /home/vagrant/.npm/gulp-coffee
+1320 silly vacuum-fs purging /home/vagrant/.npm/gulp-concat
+1321 silly vacuum-fs purging /home/vagrant/.npm/gulp-if
+1322 silly vacuum-fs purging /home/vagrant/.npm/gulp-jshint
+1323 silly vacuum-fs purging /home/vagrant/.npm/gulp-less
+1324 silly vacuum-fs purging /home/vagrant/.npm/gulp-load-plugins
+1325 silly vacuum-fs purging /home/vagrant/.npm/gulp-logger
+1326 silly vacuum-fs purging /home/vagrant/.npm/gulp-match
+1327 silly vacuum-fs purging /home/vagrant/.npm/gulp-minify-css
+1328 silly vacuum-fs purging /home/vagrant/.npm/gulp-notify
+1329 silly vacuum-fs purging /home/vagrant/.npm/gulp-phpspec
+1330 silly vacuum-fs purging /home/vagrant/.npm/gulp-phpunit
+1331 silly vacuum-fs purging /home/vagrant/.npm/gulp-rename
+1332 silly vacuum-fs purging /home/vagrant/.npm/gulp-rev
+1333 silly vacuum-fs purging /home/vagrant/.npm/gulp-rev-replace
+1334 silly vacuum-fs purging /home/vagrant/.npm/gulp-sass
+1335 silly vacuum-fs purging /home/vagrant/.npm/gulp-sourcemaps
+1336 silly vacuum-fs purging /home/vagrant/.npm/gulp-todo
+1337 silly vacuum-fs purging /home/vagrant/.npm/gulp-uglify
+1338 silly vacuum-fs purging /home/vagrant/.npm/gulp-util
+1339 silly vacuum-fs purging /home/vagrant/.npm/gulp-watch
+1340 silly vacuum-fs purging /home/vagrant/.npm/gulplog
+1341 silly vacuum-fs purging /home/vagrant/.npm/har-validator
+1342 silly vacuum-fs purging /home/vagrant/.npm/has
+1343 silly vacuum-fs purging /home/vagrant/.npm/has-ansi
+1344 silly vacuum-fs purging /home/vagrant/.npm/has-binary-data
+1345 silly vacuum-fs purging /home/vagrant/.npm/has-flag
+1346 silly vacuum-fs purging /home/vagrant/.npm/has-gulplog
+1347 silly vacuum-fs purging /home/vagrant/.npm/hash-sum
+1348 silly vacuum-fs purging /home/vagrant/.npm/hawk
+1349 silly vacuum-fs purging /home/vagrant/.npm/hosted-git-info
+1350 silly vacuum-fs purging /home/vagrant/.npm/html-minifier
+1351 silly vacuum-fs purging /home/vagrant/.npm/htmlescape
+1352 silly vacuum-fs purging /home/vagrant/.npm/http-errors
+1353 silly vacuum-fs purging /home/vagrant/.npm/http-proxy
+1354 silly vacuum-fs purging /home/vagrant/.npm/http-signature
+1355 silly vacuum-fs purging /home/vagrant/.npm/https-browserify
+1356 silly vacuum-fs purging /home/vagrant/.npm/ieee754
+1357 silly vacuum-fs purging /home/vagrant/.npm/immutable
+1358 silly vacuum-fs purging /home/vagrant/.npm/indent-string
+1359 silly vacuum-fs purging /home/vagrant/.npm/indexes-of
+1360 silly vacuum-fs purging /home/vagrant/.npm/indexof
+1361 silly vacuum-fs purging /home/vagrant/.npm/indx
+1362 silly vacuum-fs purging /home/vagrant/.npm/inflight
+1363 silly vacuum-fs purging /home/vagrant/.npm/inherits
+1364 silly vacuum-fs purging /home/vagrant/.npm/inline-source-map
+1365 silly vacuum-fs purging /home/vagrant/.npm/insert-css
+1366 silly vacuum-fs purging /home/vagrant/.npm/insert-module-globals
+1367 silly vacuum-fs purging /home/vagrant/.npm/interpret
+1368 silly vacuum-fs purging /home/vagrant/.npm/invert-kv
+1369 silly vacuum-fs purging /home/vagrant/.npm/is
+1370 silly vacuum-fs purging /home/vagrant/.npm/is-absolute
+1371 silly vacuum-fs purging /home/vagrant/.npm/is-array
+1372 silly vacuum-fs purging /home/vagrant/.npm/is-binary-path
+1373 silly vacuum-fs purging /home/vagrant/.npm/is-buffer
+1374 silly vacuum-fs purging /home/vagrant/.npm/is-builtin-module
+1375 silly vacuum-fs purging /home/vagrant/.npm/is-dotfile
+1376 silly vacuum-fs purging /home/vagrant/.npm/is-equal-shallow
+1377 silly vacuum-fs purging /home/vagrant/.npm/is-extglob
+1378 silly vacuum-fs purging /home/vagrant/.npm/is-finite
+1379 silly vacuum-fs purging /home/vagrant/.npm/is-fullwidth-code-point
+1380 silly vacuum-fs purging /home/vagrant/.npm/is-glob
+1381 silly vacuum-fs purging /home/vagrant/.npm/is-lower-case
+1382 silly vacuum-fs purging /home/vagrant/.npm/is-number
+1383 silly vacuum-fs purging /home/vagrant/.npm/is-path-cwd
+1384 silly vacuum-fs purging /home/vagrant/.npm/is-path-in-cwd
+1385 silly vacuum-fs purging /home/vagrant/.npm/is-path-inside
+1386 silly vacuum-fs purging /home/vagrant/.npm/is-plain-obj
+1387 silly vacuum-fs purging /home/vagrant/.npm/is-primitive
+1388 silly vacuum-fs purging /home/vagrant/.npm/is-regexp
+1389 silly vacuum-fs purging /home/vagrant/.npm/is-upper-case
+1390 silly vacuum-fs purging /home/vagrant/.npm/is-utf8
+1391 silly vacuum-fs purging /home/vagrant/.npm/isarray
+1392 silly vacuum-fs purging /home/vagrant/.npm/isobject
+1393 silly vacuum-fs purging /home/vagrant/.npm/isstream
+1394 silly vacuum-fs purging /home/vagrant/.npm/js-base64
+1395 silly vacuum-fs purging /home/vagrant/.npm/jshint
+1396 silly vacuum-fs purging /home/vagrant/.npm/jshint-stylish
+1397 silly vacuum-fs purging /home/vagrant/.npm/json-stable-stringify
+1398 silly vacuum-fs purging /home/vagrant/.npm/json-stringify-safe
+1399 silly vacuum-fs purging /home/vagrant/.npm/json2xml
+1400 silly vacuum-fs purging /home/vagrant/.npm/jsonify
+1401 silly vacuum-fs purging /home/vagrant/.npm/kind-of
+1402 silly vacuum-fs purging /home/vagrant/.npm/labeled-stream-splicer
+1403 silly vacuum-fs purging /home/vagrant/.npm/laravel-elixir
+1404 silly vacuum-fs purging /home/vagrant/.npm/lazy-cache
+1405 silly vacuum-fs purging /home/vagrant/.npm/lcid
+1406 silly vacuum-fs purging /home/vagrant/.npm/leasot
+1407 silly vacuum-fs purging /home/vagrant/.npm/less
+1408 silly vacuum-fs purging /home/vagrant/.npm/lexical-scope
+1409 silly vacuum-fs purging /home/vagrant/.npm/liftoff
+1410 silly vacuum-fs purging /home/vagrant/.npm/load-json-file
+1411 silly vacuum-fs purging /home/vagrant/.npm/localtunnel
+1412 silly vacuum-fs purging /home/vagrant/.npm/lodash
+1413 silly vacuum-fs purging /home/vagrant/.npm/lodash._arraycopy
+1414 silly vacuum-fs purging /home/vagrant/.npm/lodash._arrayeach
+1415 silly vacuum-fs purging /home/vagrant/.npm/lodash._arraymap
+1416 silly vacuum-fs purging /home/vagrant/.npm/lodash._baseassign
+1417 silly vacuum-fs purging /home/vagrant/.npm/lodash._baseclone
+1418 silly vacuum-fs purging /home/vagrant/.npm/lodash._basecopy
+1419 silly vacuum-fs purging /home/vagrant/.npm/lodash._basedifference
+1420 silly vacuum-fs purging /home/vagrant/.npm/lodash._baseflatten
+1421 silly vacuum-fs purging /home/vagrant/.npm/lodash._basefor
+1422 silly vacuum-fs purging /home/vagrant/.npm/lodash._baseindexof
+1423 silly vacuum-fs purging /home/vagrant/.npm/lodash._basetostring
+1424 silly vacuum-fs purging /home/vagrant/.npm/lodash._basevalues
+1425 silly vacuum-fs purging /home/vagrant/.npm/lodash._bindcallback
+1426 silly vacuum-fs purging /home/vagrant/.npm/lodash._cacheindexof
+1427 silly vacuum-fs purging /home/vagrant/.npm/lodash._createassigner
+1428 silly vacuum-fs purging /home/vagrant/.npm/lodash._createcache
+1429 silly vacuum-fs purging /home/vagrant/.npm/lodash._escapehtmlchar
+1430 silly vacuum-fs purging /home/vagrant/.npm/lodash._escapestringchar
+1431 silly vacuum-fs purging /home/vagrant/.npm/lodash._getnative
+1432 silly vacuum-fs purging /home/vagrant/.npm/lodash._htmlescapes
+1433 silly vacuum-fs purging /home/vagrant/.npm/lodash._isiterateecall
+1434 silly vacuum-fs purging /home/vagrant/.npm/lodash._isnative
+1435 silly vacuum-fs purging /home/vagrant/.npm/lodash._objecttypes
+1436 silly vacuum-fs purging /home/vagrant/.npm/lodash._pickbyarray
+1437 silly vacuum-fs purging /home/vagrant/.npm/lodash._pickbycallback
+1438 silly vacuum-fs purging /home/vagrant/.npm/lodash._reescape
+1439 silly vacuum-fs purging /home/vagrant/.npm/lodash._reevaluate
+1440 silly vacuum-fs purging /home/vagrant/.npm/lodash._reinterpolate
+1441 silly vacuum-fs purging /home/vagrant/.npm/lodash._reunescapedhtml
+1442 silly vacuum-fs purging /home/vagrant/.npm/lodash._shimkeys
+1443 silly vacuum-fs purging /home/vagrant/.npm/lodash.assign
+1444 silly vacuum-fs purging /home/vagrant/.npm/lodash.clonedeep
+1445 silly vacuum-fs purging /home/vagrant/.npm/lodash.compact
+1446 silly vacuum-fs purging /home/vagrant/.npm/lodash.defaults
+1447 silly vacuum-fs purging /home/vagrant/.npm/lodash.escape
+1448 silly vacuum-fs purging /home/vagrant/.npm/lodash.flatten
+1449 silly vacuum-fs purging /home/vagrant/.npm/lodash.isarguments
+1450 silly vacuum-fs purging /home/vagrant/.npm/lodash.isarray
+1451 silly vacuum-fs purging /home/vagrant/.npm/lodash.isobject
+1452 silly vacuum-fs purging /home/vagrant/.npm/lodash.isplainobject
+1453 silly vacuum-fs purging /home/vagrant/.npm/lodash.istypedarray
+1454 silly vacuum-fs purging /home/vagrant/.npm/lodash.keys
+1455 silly vacuum-fs purging /home/vagrant/.npm/lodash.keysin
+1456 silly vacuum-fs purging /home/vagrant/.npm/lodash.memoize
+1457 silly vacuum-fs purging /home/vagrant/.npm/lodash.merge
+1458 silly vacuum-fs purging /home/vagrant/.npm/lodash.omit
+1459 silly vacuum-fs purging /home/vagrant/.npm/lodash.restparam
+1460 silly vacuum-fs purging /home/vagrant/.npm/lodash.template
+1461 silly vacuum-fs purging /home/vagrant/.npm/lodash.templatesettings
+1462 silly vacuum-fs purging /home/vagrant/.npm/lodash.toplainobject
+1463 silly vacuum-fs purging /home/vagrant/.npm/lodash.values
+1464 silly vacuum-fs purging /home/vagrant/.npm/log-symbols
+1465 silly vacuum-fs purging /home/vagrant/.npm/longest
+1466 silly vacuum-fs purging /home/vagrant/.npm/loud-rejection
+1467 silly vacuum-fs purging /home/vagrant/.npm/lower-case
+1468 silly vacuum-fs purging /home/vagrant/.npm/lower-case-first
+1469 silly vacuum-fs purging /home/vagrant/.npm/lru-cache
+1470 silly vacuum-fs purging /home/vagrant/.npm/map-async
+1471 silly vacuum-fs purging /home/vagrant/.npm/map-obj
+1472 silly vacuum-fs purging /home/vagrant/.npm/map-stream
+1473 silly vacuum-fs purging /home/vagrant/.npm/marked
+1474 silly vacuum-fs purging /home/vagrant/.npm/marked-terminal
+1475 silly vacuum-fs purging /home/vagrant/.npm/meow
+1476 silly vacuum-fs purging /home/vagrant/.npm/merge
+1477 silly vacuum-fs purging /home/vagrant/.npm/merge-stream
+1478 silly vacuum-fs purging /home/vagrant/.npm/micromatch
+1479 silly vacuum-fs purging /home/vagrant/.npm/miller-rabin
+1480 silly vacuum-fs purging /home/vagrant/.npm/mime
+1481 silly vacuum-fs purging /home/vagrant/.npm/mime-db
+1482 silly vacuum-fs purging /home/vagrant/.npm/mime-types
+1483 silly vacuum-fs purging /home/vagrant/.npm/minimatch
+1484 silly vacuum-fs purging /home/vagrant/.npm/minimist
+1485 silly vacuum-fs purging /home/vagrant/.npm/mkdirp
+1486 silly vacuum-fs purging /home/vagrant/.npm/modify-filename
+1487 silly vacuum-fs purging /home/vagrant/.npm/module-deps
+1488 silly vacuum-fs purging /home/vagrant/.npm/ms
+1489 silly vacuum-fs purging /home/vagrant/.npm/multimatch
+1490 silly vacuum-fs purging /home/vagrant/.npm/multipipe
+1491 silly vacuum-fs purging /home/vagrant/.npm/negotiator
+1492 silly vacuum-fs purging /home/vagrant/.npm/next-tick
+1493 silly vacuum-fs purging /home/vagrant/.npm/node-notifier
+1494 silly vacuum-fs purging /home/vagrant/.npm/node-sass
+1495 silly vacuum-fs purging /home/vagrant/.npm/node-uuid
+1496 silly vacuum-fs purging /home/vagrant/.npm/node.extend
+1497 silly vacuum-fs purging /home/vagrant/.npm/normalize-package-data
+1498 silly vacuum-fs purging /home/vagrant/.npm/normalize-path
+1499 silly vacuum-fs purging /home/vagrant/.npm/num2fraction
+1500 silly vacuum-fs purging /home/vagrant/.npm/number-is-nan
+1501 silly vacuum-fs purging /home/vagrant/.npm/oauth-sign
+1502 silly vacuum-fs purging /home/vagrant/.npm/object-assign
+1503 silly vacuum-fs purging /home/vagrant/.npm/object-inspect
+1504 silly vacuum-fs purging /home/vagrant/.npm/object-keys
+1505 silly vacuum-fs purging /home/vagrant/.npm/object-path
+1506 silly vacuum-fs purging /home/vagrant/.npm/object.omit
+1507 silly vacuum-fs purging /home/vagrant/.npm/on-finished
+1508 silly vacuum-fs purging /home/vagrant/.npm/once
+1509 silly vacuum-fs purging /home/vagrant/.npm/onetime
+1510 silly vacuum-fs purging /home/vagrant/.npm/openurl
+1511 silly vacuum-fs purging /home/vagrant/.npm/opn
+1512 silly vacuum-fs purging /home/vagrant/.npm/opt-merger
+1513 silly vacuum-fs purging /home/vagrant/.npm/orchestrator
+1514 silly vacuum-fs purging /home/vagrant/.npm/ordered-read-streams
+1515 silly vacuum-fs purging /home/vagrant/.npm/os-browserify
+1516 silly vacuum-fs purging /home/vagrant/.npm/os-homedir
+1517 silly vacuum-fs purging /home/vagrant/.npm/os-locale
+1518 silly vacuum-fs purging /home/vagrant/.npm/outpipe
+1519 silly vacuum-fs purging /home/vagrant/.npm/output-file-sync
+1520 silly vacuum-fs purging /home/vagrant/.npm/pako
+1521 silly vacuum-fs purging /home/vagrant/.npm/param-case
+1522 silly vacuum-fs purging /home/vagrant/.npm/parents
+1523 silly vacuum-fs purging /home/vagrant/.npm/parse-asn1
+1524 silly vacuum-fs purging /home/vagrant/.npm/parse-filepath
+1525 silly vacuum-fs purging /home/vagrant/.npm/parse-glob
+1526 silly vacuum-fs purging /home/vagrant/.npm/parse-json
+1527 silly vacuum-fs purging /home/vagrant/.npm/parse5
+1528 silly vacuum-fs purging /home/vagrant/.npm/parseurl
+1529 silly vacuum-fs purging /home/vagrant/.npm/partialify
+1530 silly vacuum-fs purging /home/vagrant/.npm/pascal-case
+1531 silly vacuum-fs purging /home/vagrant/.npm/path
+1532 silly vacuum-fs purging /home/vagrant/.npm/path-browserify
+1533 silly vacuum-fs purging /home/vagrant/.npm/path-case
+1534 silly vacuum-fs purging /home/vagrant/.npm/path-ends-with
+1535 silly vacuum-fs purging /home/vagrant/.npm/path-exists
+1536 silly vacuum-fs purging /home/vagrant/.npm/path-is-absolute
+1537 silly vacuum-fs purging /home/vagrant/.npm/path-is-inside
+1538 silly vacuum-fs purging /home/vagrant/.npm/path-platform
+1539 silly vacuum-fs purging /home/vagrant/.npm/path-type
+1540 silly vacuum-fs purging /home/vagrant/.npm/pause-stream
+1541 silly vacuum-fs purging /home/vagrant/.npm/pbkdf2
+1542 silly vacuum-fs purging /home/vagrant/.npm/pify
+1543 silly vacuum-fs purging /home/vagrant/.npm/pinkie
+1544 silly vacuum-fs purging /home/vagrant/.npm/pinkie-promise
+1545 silly vacuum-fs purging /home/vagrant/.npm/portscanner
+1546 silly vacuum-fs purging /home/vagrant/.npm/postcss
+1547 silly vacuum-fs purging /home/vagrant/.npm/postcss-selector-parser
+1548 silly vacuum-fs purging /home/vagrant/.npm/preserve
+1549 silly vacuum-fs purging /home/vagrant/.npm/pretty-hrtime
+1550 silly vacuum-fs purging /home/vagrant/.npm/process
+1551 silly vacuum-fs purging /home/vagrant/.npm/process-nextick-args
+1552 silly vacuum-fs purging /home/vagrant/.npm/public-encrypt
+1553 silly vacuum-fs purging /home/vagrant/.npm/punycode
+1554 silly vacuum-fs purging /home/vagrant/.npm/qs
+1555 silly vacuum-fs purging /home/vagrant/.npm/query-string
+1556 silly vacuum-fs purging /home/vagrant/.npm/querystring
+1557 silly vacuum-fs purging /home/vagrant/.npm/querystring-es3
+1558 silly vacuum-fs purging /home/vagrant/.npm/randomatic
+1559 silly vacuum-fs purging /home/vagrant/.npm/randombytes
+1560 silly vacuum-fs purging /home/vagrant/.npm/range-parser
+1561 silly vacuum-fs purging /home/vagrant/.npm/rcfinder
+1562 silly vacuum-fs purging /home/vagrant/.npm/rcloader
+1563 silly vacuum-fs purging /home/vagrant/.npm/react
+1564 silly vacuum-fs purging /home/vagrant/.npm/read-only-stream
+1565 silly vacuum-fs purging /home/vagrant/.npm/read-pkg
+1566 silly vacuum-fs purging /home/vagrant/.npm/read-pkg-up
+1567 silly vacuum-fs purging /home/vagrant/.npm/readable-stream
+1568 silly vacuum-fs purging /home/vagrant/.npm/readable-wrap
+1569 silly vacuum-fs purging /home/vagrant/.npm/readdirp
+1570 silly vacuum-fs purging /home/vagrant/.npm/rechoir
+1571 silly vacuum-fs purging /home/vagrant/.npm/redent
+1572 silly vacuum-fs purging /home/vagrant/.npm/regex-cache
+1573 silly vacuum-fs purging /home/vagrant/.npm/registry.npmjs.org
+1574 silly vacuum-fs purging /home/vagrant/.npm/relateurl
+1575 silly vacuum-fs purging /home/vagrant/.npm/rename
+1576 silly vacuum-fs purging /home/vagrant/.npm/repeat-element
+1577 silly vacuum-fs purging /home/vagrant/.npm/repeat-string
+1578 silly vacuum-fs purging /home/vagrant/.npm/repeating
+1579 silly vacuum-fs purging /home/vagrant/.npm/replace-ext
+1580 silly vacuum-fs purging /home/vagrant/.npm/request
+1581 silly vacuum-fs purging /home/vagrant/.npm/require-dir
+1582 silly vacuum-fs purging /home/vagrant/.npm/requires-port
+1583 silly vacuum-fs purging /home/vagrant/.npm/resolve
+1584 silly vacuum-fs purging /home/vagrant/.npm/resp-modifier
+1585 silly vacuum-fs purging /home/vagrant/.npm/rev-hash
+1586 silly vacuum-fs purging /home/vagrant/.npm/rev-path
+1587 silly vacuum-fs purging /home/vagrant/.npm/rimraf
+1588 silly vacuum-fs purging /home/vagrant/.npm/ripemd160
+1589 silly vacuum-fs purging /home/vagrant/.npm/run-sequence
+1590 silly vacuum-fs purging /home/vagrant/.npm/semver
+1591 silly vacuum-fs purging /home/vagrant/.npm/send
+1592 silly vacuum-fs purging /home/vagrant/.npm/sentence-case
+1593 silly vacuum-fs purging /home/vagrant/.npm/sequencify
+1594 silly vacuum-fs purging /home/vagrant/.npm/serve-index
+1595 silly vacuum-fs purging /home/vagrant/.npm/serve-static
+1596 silly vacuum-fs purging /home/vagrant/.npm/set-immediate-shim
+1597 silly vacuum-fs purging /home/vagrant/.npm/sha.js
+1598 silly vacuum-fs purging /home/vagrant/.npm/shasum
+1599 silly vacuum-fs purging /home/vagrant/.npm/shell-quote
+1600 silly vacuum-fs purging /home/vagrant/.npm/shellwords
+1601 silly vacuum-fs purging /home/vagrant/.npm/sigmund
+1602 silly vacuum-fs purging /home/vagrant/.npm/slash
+1603 silly vacuum-fs purging /home/vagrant/.npm/snake-case
+1604 silly vacuum-fs purging /home/vagrant/.npm/socket.io
+1605 silly vacuum-fs purging /home/vagrant/.npm/socket.io-adapter
+1606 silly vacuum-fs purging /home/vagrant/.npm/socket.io-client
+1607 silly vacuum-fs purging /home/vagrant/.npm/sort-keys
+1608 silly vacuum-fs purging /home/vagrant/.npm/source-map
+1609 silly vacuum-fs purging /home/vagrant/.npm/sparkles
+1610 silly vacuum-fs purging /home/vagrant/.npm/spdx-correct
+1611 silly vacuum-fs purging /home/vagrant/.npm/spdx-exceptions
+1612 silly vacuum-fs purging /home/vagrant/.npm/spdx-expression-parse
+1613 silly vacuum-fs purging /home/vagrant/.npm/spdx-license-ids
+1614 silly vacuum-fs purging /home/vagrant/.npm/split
+1615 silly vacuum-fs purging /home/vagrant/.npm/statuses
+1616 silly vacuum-fs purging /home/vagrant/.npm/stream-array
+1617 silly vacuum-fs purging /home/vagrant/.npm/stream-browserify
+1618 silly vacuum-fs purging /home/vagrant/.npm/stream-combiner
+1619 silly vacuum-fs purging /home/vagrant/.npm/stream-consume
+1620 silly vacuum-fs purging /home/vagrant/.npm/stream-exhaust
+1621 silly vacuum-fs purging /home/vagrant/.npm/stream-http
+1622 silly vacuum-fs purging /home/vagrant/.npm/stream-splicer
+1623 silly vacuum-fs purging /home/vagrant/.npm/strict-uri-encode
+1624 silly vacuum-fs purging /home/vagrant/.npm/string-length
+1625 silly vacuum-fs purging /home/vagrant/.npm/string-to-js
+1626 silly vacuum-fs purging /home/vagrant/.npm/string-width
+1627 silly vacuum-fs purging /home/vagrant/.npm/string_decoder
+1628 silly vacuum-fs purging /home/vagrant/.npm/stringstream
+1629 silly vacuum-fs purging /home/vagrant/.npm/strip-ansi
+1630 silly vacuum-fs purging /home/vagrant/.npm/strip-bom
+1631 silly vacuum-fs purging /home/vagrant/.npm/strip-bom-stream
+1632 silly vacuum-fs purging /home/vagrant/.npm/strip-indent
+1633 silly vacuum-fs purging /home/vagrant/.npm/subarg
+1634 silly vacuum-fs purging /home/vagrant/.npm/success-symbol
+1635 silly vacuum-fs purging /home/vagrant/.npm/supports-color
+1636 silly vacuum-fs purging /home/vagrant/.npm/swap-case
+1637 silly vacuum-fs purging /home/vagrant/.npm/syntax-error
+1638 silly vacuum-fs purging /home/vagrant/.npm/ternary-stream
+1639 silly vacuum-fs purging /home/vagrant/.npm/text-table
+1640 silly vacuum-fs purging /home/vagrant/.npm/tfunk
+1641 silly vacuum-fs purging /home/vagrant/.npm/through
+1642 silly vacuum-fs purging /home/vagrant/.npm/through2
+1643 silly vacuum-fs purging /home/vagrant/.npm/tildify
+1644 silly vacuum-fs purging /home/vagrant/.npm/timers-browserify
+1645 silly vacuum-fs purging /home/vagrant/.npm/title-case
+1646 silly vacuum-fs purging /home/vagrant/.npm/tough-cookie
+1647 silly vacuum-fs purging /home/vagrant/.npm/trim-newlines
+1648 silly vacuum-fs purging /home/vagrant/.npm/tty-browserify
+1649 silly vacuum-fs purging /home/vagrant/.npm/tunnel-agent
+1650 silly vacuum-fs purging /home/vagrant/.npm/type-detect
+1651 silly vacuum-fs purging /home/vagrant/.npm/typedarray
+1652 silly vacuum-fs purging /home/vagrant/.npm/ua-parser-js
+1653 silly vacuum-fs purging /home/vagrant/.npm/ucfirst
+1654 silly vacuum-fs purging /home/vagrant/.npm/uglify-js
+1655 silly vacuum-fs purging /home/vagrant/.npm/uglify-save-license
+1656 silly vacuum-fs purging /home/vagrant/.npm/uglify-to-browserify
+1657 silly vacuum-fs purging /home/vagrant/.npm/umd
+1658 silly vacuum-fs purging /home/vagrant/.npm/underscore
+1659 silly vacuum-fs purging /home/vagrant/.npm/underscore-deep-extend
+1660 silly vacuum-fs purging /home/vagrant/.npm/uniq
+1661 silly vacuum-fs purging /home/vagrant/.npm/unique-stream
+1662 silly vacuum-fs purging /home/vagrant/.npm/unpipe
+1663 silly vacuum-fs purging /home/vagrant/.npm/upper-case
+1664 silly vacuum-fs purging /home/vagrant/.npm/upper-case-first
+1665 silly vacuum-fs purging /home/vagrant/.npm/url
+1666 silly vacuum-fs purging /home/vagrant/.npm/user-home
+1667 silly vacuum-fs purging /home/vagrant/.npm/util
+1668 silly vacuum-fs purging /home/vagrant/.npm/util-deprecate
+1669 silly vacuum-fs purging /home/vagrant/.npm/utils-merge
+1670 silly vacuum-fs purging /home/vagrant/.npm/v8flags
+1671 silly vacuum-fs purging /home/vagrant/.npm/validate-npm-package-license
+1672 silly vacuum-fs purging /home/vagrant/.npm/vinyl
+1673 silly vacuum-fs purging /home/vagrant/.npm/vinyl-buffer
+1674 silly vacuum-fs purging /home/vagrant/.npm/vinyl-bufferstream
+1675 silly vacuum-fs purging /home/vagrant/.npm/vinyl-file
+1676 silly vacuum-fs purging /home/vagrant/.npm/vinyl-fs
+1677 silly vacuum-fs purging /home/vagrant/.npm/vinyl-paths
+1678 silly vacuum-fs purging /home/vagrant/.npm/vinyl-source-stream
+1679 silly vacuum-fs purging /home/vagrant/.npm/vinyl-sourcemaps-apply
+1680 silly vacuum-fs purging /home/vagrant/.npm/vm-browserify
+1681 silly vacuum-fs purging /home/vagrant/.npm/vueify
+1682 silly vacuum-fs purging /home/vagrant/.npm/watchify
+1683 silly vacuum-fs purging /home/vagrant/.npm/when
+1684 silly vacuum-fs purging /home/vagrant/.npm/which
+1685 silly vacuum-fs purging /home/vagrant/.npm/window-size
+1686 silly vacuum-fs purging /home/vagrant/.npm/wordwrap
+1687 silly vacuum-fs purging /home/vagrant/.npm/wrap-ansi
+1688 silly vacuum-fs purging /home/vagrant/.npm/wrappy
+1689 silly vacuum-fs purging /home/vagrant/.npm/xtend
+1690 silly vacuum-fs purging /home/vagrant/.npm/y18n
+1691 silly vacuum-fs purging /home/vagrant/.npm/yargs
+1692 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1693 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1694 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1695 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1696 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1697 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1698 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1699 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1700 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1701 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1702 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1703 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1704 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1705 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1706 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1707 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1708 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1709 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1710 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1711 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1712 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1713 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1714 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1715 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1716 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1717 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1718 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1719 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1720 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1721 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1722 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1723 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1724 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1725 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1726 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1727 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1728 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1729 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1730 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1731 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1732 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1733 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1734 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1735 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1736 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1737 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1738 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1739 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1740 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1741 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1742 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1743 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1744 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1745 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1746 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1747 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1748 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1749 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1750 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1751 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1752 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1753 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1754 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1755 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1756 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1757 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1758 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1759 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1760 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1761 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1762 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1763 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1764 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1765 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1766 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1767 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1768 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1769 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1770 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1771 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1772 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1773 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1774 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1775 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1776 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1777 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1778 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1779 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1780 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1781 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1782 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1783 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1784 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1785 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1786 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1787 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1788 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1789 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1790 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1791 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1792 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1793 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1794 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1795 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1796 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1797 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1798 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1799 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1800 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1801 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1802 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1803 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1804 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1805 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1806 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1807 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1808 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1809 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1810 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1811 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1812 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1813 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1814 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1815 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1816 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1817 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1818 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1819 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1820 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1821 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1822 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1823 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1824 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1825 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1826 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1827 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1828 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1829 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1830 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1831 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1832 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1833 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1834 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1835 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1836 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1837 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1838 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1839 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1840 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1841 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1842 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1843 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1844 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1845 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1846 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1847 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1848 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1849 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1850 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1851 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1852 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1853 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1854 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1855 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1856 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1857 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1858 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1859 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1860 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1861 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1862 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1863 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1864 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1865 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1866 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1867 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1868 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1869 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1870 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1871 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1872 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1873 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1874 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1875 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1876 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1877 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1878 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1879 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1880 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1881 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1882 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1883 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1884 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1885 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1886 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1887 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1888 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1889 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1890 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1891 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1892 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1893 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1894 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1895 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1896 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1897 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1898 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1899 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1900 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1901 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1902 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1903 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1904 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1905 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1906 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1907 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1908 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1909 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1910 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1911 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1912 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1913 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1914 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1915 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1916 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1917 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1918 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1919 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1920 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1921 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1922 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1923 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1924 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1925 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1926 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1927 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1928 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1929 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1930 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1931 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1932 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1933 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1934 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1935 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1936 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1937 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1938 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1939 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1940 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1941 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1942 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1943 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1944 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1945 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1946 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1947 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1948 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1949 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1950 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1951 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1952 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1953 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1954 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1955 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1956 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1957 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1958 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1959 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1960 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1961 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1962 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1963 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1964 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1965 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1966 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1967 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1968 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1969 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1970 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1971 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1972 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1973 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1974 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1975 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1976 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1977 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1978 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1979 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1980 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1981 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1982 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1983 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1984 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1985 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1986 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1987 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1988 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1989 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1990 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1991 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1992 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1993 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1994 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1995 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1996 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1997 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1998 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+1999 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2000 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2001 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2002 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2003 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2004 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2005 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2006 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2007 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2008 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2009 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2010 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2011 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2012 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2013 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2014 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2015 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2016 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2017 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2018 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2019 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2020 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2021 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2022 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2023 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2024 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2025 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2026 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2027 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2028 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2029 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2030 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2031 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2032 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2033 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2034 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2035 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2036 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2037 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2038 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2039 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2040 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2041 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2042 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2043 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2044 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2045 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2046 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2047 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2048 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2049 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2050 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2051 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2052 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2053 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2054 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2055 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2056 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2057 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2058 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2059 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2060 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2061 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2062 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2063 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2064 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2065 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2066 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2067 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2068 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2069 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2070 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2071 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2072 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2073 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2074 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2075 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2076 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2077 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2078 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2079 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2080 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2081 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2082 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2083 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2084 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2085 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2086 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2087 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2088 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2089 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2090 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2091 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2092 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2093 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2094 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2095 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2096 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2097 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2098 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2099 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2100 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2101 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2102 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2103 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2104 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2105 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2106 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2107 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2108 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2109 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2110 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2111 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2112 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2113 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2114 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2115 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2116 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2117 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2118 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2119 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2120 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2121 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2122 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2123 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2124 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2125 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2126 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2127 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2128 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2129 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2130 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2131 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2132 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2133 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2134 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2135 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2136 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2137 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2138 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2139 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2140 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2141 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2142 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2143 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2144 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2145 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2146 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2147 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2148 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2149 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2150 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2151 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2152 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2153 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2154 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2155 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2156 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2157 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2158 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2159 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2160 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2161 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2162 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2163 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2164 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2165 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2166 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2167 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2168 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2169 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2170 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2171 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2172 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2173 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2174 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2175 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2176 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2177 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2178 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2179 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2180 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2181 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2182 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2183 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2184 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2185 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2186 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2187 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2188 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2189 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2190 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2191 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2192 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2193 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2194 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2195 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2196 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2197 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2198 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2199 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2200 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2201 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2202 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2203 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2204 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2205 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2206 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2207 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2208 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2209 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2210 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2211 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2212 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2213 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2214 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2215 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2216 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2217 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2218 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2219 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2220 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2221 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2222 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2223 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2224 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2225 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2226 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2227 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2228 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2229 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2230 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2231 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2232 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2233 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2234 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2235 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2236 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2237 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2238 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2239 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2240 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2241 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2242 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2243 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2244 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2245 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2246 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2247 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2248 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2249 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2250 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2251 silly vacuum-fs quitting because other entries in /home/vagrant/.npm
+2252 verbose stack Error: EACCES, unlink '/home/vagrant/.npm/_locks/JSONStream-216a0baab32e7f20.lock'
+2252 verbose stack     at Error (native)
+2253 verbose cwd /home/vagrant/Code/Laravel
+2254 error Linux 3.19.0-25-generic
+2255 error argv "/usr/bin/node" "/usr/bin/npm" "cache" "clean"
+2256 error node v0.12.7
+2257 error npm  v2.11.3
+2258 error path /home/vagrant/.npm/_locks/JSONStream-216a0baab32e7f20.lock
+2259 error code EACCES
+2260 error errno -13
+2261 error Error: EACCES, unlink '/home/vagrant/.npm/_locks/JSONStream-216a0baab32e7f20.lock'
+2261 error     at Error (native)
+2261 error  { [Error: EACCES, unlink '/home/vagrant/.npm/_locks/JSONStream-216a0baab32e7f20.lock']
+2261 error   errno: -13,
+2261 error   code: 'EACCES',
+2261 error   path: '/home/vagrant/.npm/_locks/JSONStream-216a0baab32e7f20.lock' }
+2262 error Please try running this command again as root/Administrator.
+2263 verbose exit [ -13, true ]
